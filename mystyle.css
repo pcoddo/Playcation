@@ -1,0 +1,27 @@
+table {
+	line-height: 0.75;
+	font-size: 1rem;
+	margin: 0 auto;
+	max-width: 400px;
+}
+
+
+tabs {
+	margin-bottom: 15px;
+}
+
+#logo {
+  /* Appearance */
+  background-color: transparent;
+  cursor: move;
+  /* Fade out while not hovering */
+  opacity: 0.40;
+  zoom: 0.9;
+  transition: opacity 0.3s;
+}
+
+#logo:hover {
+  /* Fade in while hovering */
+  opacity: 0.70;
+  transition-delay: 0;
+}

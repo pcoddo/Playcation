@@ -1,0 +1,1804 @@
+Country,State,City,Lodging
+Afghanistan,NA,Kabul,0
+Afghanistan,NA,Other,0
+Albania,NA,Other,70
+Albania,NA,Tirana,128
+Algeria,NA,Algiers,150
+Algeria,NA,Other,192
+Andorra,NA,Andorra,209
+Angola,NA,Luanda,405
+Angola,NA,Other,405
+Anguilla,NA,The Valley,244
+Antarctica,NA,Antarctica Region Posts,0
+Antigua And Barbuda,NA,Antigua and Barbuda,175
+Antigua And Barbuda,NA,Antigua and Barbuda,204
+Antigua And Barbuda,NA,Other,37
+Antigua And Barbuda,NA,Other,50
+Argentina,NA,Bariloche,218
+Argentina,NA,Buenos Aires,267
+Argentina,NA,Mendoza,182
+Argentina,NA,Other,175
+Armenia,NA,Other,120
+Armenia,NA,Yerevan,120
+Aruba,NA,Oranjestad,310
+Aruba,NA,Oranjestad,259
+Aruba,NA,Other,310
+Aruba,NA,Other,259
+Ascension Island,NA,Ascension Island,122
+Australia,NA,Adelaide,152
+Australia,NA,Bendigo,268
+Australia,NA,Brisbane,163
+Australia,NA,Broome,301
+Australia,NA,Cairns,132
+Australia,NA,Canberra,159
+Australia,NA,"Darwin, Northern Territory",208
+Australia,NA,Exmouth,170
+Australia,NA,Fremantle,184
+Australia,NA,Hobart,163
+Australia,NA,Melbourne,190
+Australia,NA,Other,132
+Australia,NA,Perth,209
+Australia,NA,"Richmond, NSW",149
+Australia,NA,Sydney,240
+Austria,NA,Graz,256
+Austria,NA,Innsbruck,221
+Austria,NA,Linz,186
+Austria,NA,Other,221
+Austria,NA,Salzburg,262
+Austria,NA,Vienna,279
+Azerbaijan,NA,Baku,159
+Azerbaijan,NA,Ganja,125
+Azerbaijan,NA,Other,98
+Azerbaijan,NA,Qabala,128
+"Bahamas, The",NA,Andros Island,159
+"Bahamas, The",NA,Eleuthera Island,213
+"Bahamas, The",NA,Eleuthera Island,276
+"Bahamas, The",NA,Grand Bahama Island,187
+"Bahamas, The",NA,Nassau,318
+"Bahamas, The",NA,Other,176
+Bahrain,NA,Bahrain,255
+Bahrain,NA,MANAMA,255
+Bangladesh,NA,Chittagong,150
+Bangladesh,NA,Dhaka,240
+Bangladesh,NA,Other,143
+Bangladesh,NA,Sylhet,177
+Barbados,NA,Barbados,200
+Barbados,NA,Barbados,307
+Belarus,NA,Minsk,190
+Belarus,NA,Other,190
+Belgium,NA,Antwerp,190
+Belgium,NA,Brugge,128
+Belgium,NA,Brussels,227
+Belgium,NA,Brussels,174
+Belgium,NA,Diegem,227
+Belgium,NA,Diegem,174
+Belgium,NA,Kleine Brogel,114
+Belgium,NA,Liege,140
+Belgium,NA,Other,81
+Belgium,NA,SHAPE/Chievres,110
+Belgium,NA,Zaventem,227
+Belgium,NA,Zaventem,174
+Belize,NA,Belize City,158
+Belize,NA,Belmopan,156
+Belize,NA,Caye Caulker,131
+Belize,NA,Hopkins,199
+Belize,NA,Other,143
+Belize,NA,Placencia,202
+Belize,NA,San Ignacio Town,155
+Belize,NA,San Pedro,206
+Benin,NA,Cotonou,136
+Benin,NA,Other,80
+Bermuda,NA,Bermuda,445
+Bermuda,NA,Bermuda,365
+Bhutan,NA,Bhutan,280
+Bolivia,NA,Cochabamba,85
+Bolivia,NA,La Paz,140
+Bolivia,NA,Other,77
+Bolivia,NA,Potosi,88
+Bolivia,NA,Santa Cruz,135
+Bolivia,NA,Tarija,81
+"Bonaire, Sint Eustatius, And Saba",NA,Bonaire,118
+"Bonaire, Sint Eustatius, And Saba",NA,Bonaire,155
+"Bonaire, Sint Eustatius, And Saba",NA,Saba,186
+Bosnia And Herzegovina,NA,Other,115
+Bosnia And Herzegovina,NA,Sarajevo,115
+Botswana,NA,Francistown,128
+Botswana,NA,Gaborone,137
+Botswana,NA,Kasane,158
+Botswana,NA,Maun,137
+Botswana,NA,Other,120
+Botswana,NA,Selebi Phikwe,120
+Botswana,NA,Serowe,73
+Brazil,NA,Belem,76
+Brazil,NA,Belo Horizonte,69
+Brazil,NA,Brasilia,121
+Brazil,NA,Fortaleza,210
+Brazil,NA,Foz do Iguacu,71
+Brazil,NA,Goiania,194
+Brazil,NA,Manaus,117
+Brazil,NA,Natal,199
+Brazil,NA,Other,177
+Brazil,NA,Porto Alegre,150
+Brazil,NA,Porto Velho,64
+Brazil,NA,"Recife, Pernambuco",199
+Brazil,NA,Rio de Janeiro,219
+Brazil,NA,Salvador da Bahia,201
+Brazil,NA,Sao Paulo,286
+Brunei,NA,Bandar Seri Begawan,200
+Brunei,NA,Jerudong,245
+Brunei,NA,Other,75
+Bulgaria,NA,Bourgas,112
+Bulgaria,NA,Other,106
+Bulgaria,NA,Plovdiv,119
+Bulgaria,NA,Sofia,173
+Bulgaria,NA,Varna,114
+Burkina Faso,NA,Bobo Dioulasso,71
+Burkina Faso,NA,Other,71
+Burkina Faso,NA,Ouagadougou,166
+Burma,NA,Naypyitaw,110
+Burma,NA,Other,150
+Burma,NA,Rangoon,180
+Burundi,NA,Bujumbura,120
+Burundi,NA,Other,120
+Cabo Verde,NA,Boa Vista Island,171
+Cabo Verde,NA,Fogo,71
+Cabo Verde,NA,Other,64
+Cabo Verde,NA,Praia,147
+Cabo Verde,NA,Sal Island,160
+Cabo Verde,NA,Sao Tiago Island,52
+Cabo Verde,NA,Sao Vicente Island,118
+Cambodia,NA,Other,110
+Cambodia,NA,Phnom Penh,151
+Cambodia,NA,Siem Reap,155
+Cambodia,NA,Siem Reap,170
+Cambodia,NA,Sihanoukville,145
+Cambodia,NA,Sihanoukville,180
+Cameroon,NA,Douala,161
+Cameroon,NA,Limbe,160
+Cameroon,NA,Other,129
+Cameroon,NA,Yaounde,179
+Canada,NA,Banff,302
+Canada,NA,Calgary,254
+Canada,NA,Dartmouth,192
+Canada,NA,Edmonton,178
+Canada,NA,"Fort McMurray, Alberta",210
+Canada,NA,Fredericton,184
+Canada,NA,"Gander, Newfoundland",166
+Canada,NA,Goose Bay,171
+Canada,NA,Halifax,192
+Canada,NA,Kelowna,197
+Canada,NA,"London, Ontario",115
+Canada,NA,Moncton,156
+Canada,NA,Montreal,186
+Canada,NA,Nanoose Bay,109
+Canada,NA,"Niagara Falls, Ontario",181
+Canada,NA,Other,132
+Canada,NA,Ottawa,216
+Canada,NA,Prince Edward Island,202
+Canada,NA,Quebec,241
+Canada,NA,"Regina, Saskatchewan",192
+Canada,NA,Richmond,220
+Canada,NA,"Saskatoon, Saskatchewan",188
+Canada,NA,Sidney,149
+Canada,NA,"St. John's, Newfoundland",186
+Canada,NA,Toronto,285
+Canada,NA,Vancouver,398
+Canada,NA,Vancouver,202
+Canada,NA,Victoria,231
+Canada,NA,Victoria,170
+Canada,NA,"Whistler, BC",245
+Canada,NA,"Whitehorse, Yukon",228
+Canada,NA,Winnipeg,195
+Canada,NA,Yellowknife,141
+Cayman Islands,NA,Cayman Islands,307
+Cayman Islands,NA,Cayman Islands,588
+Central African Republic,NA,Bangui,215
+Central African Republic,NA,Other,215
+Chad,NA,Ndjamena,232
+Chad,NA,Other,173
+Chagos Archipelago,NA,Diego Garcia,147
+Chile,NA,Other,182
+Chile,NA,Santiago,226
+China,NA,Beijing,254
+China,NA,Changchun,167
+China,NA,Chengdu,145
+China,NA,Chongqing,114
+China,NA,Dalian,166
+China,NA,Fuzhou,176
+China,NA,Guangzhou,246
+China,NA,Guilin,168
+China,NA,Haikou,176
+China,NA,Hangzhou,169
+China,NA,Harbin,187
+China,NA,Jinan,121
+China,NA,Lhasa,210
+China,NA,Lijiang,153
+China,NA,Nanjing,136
+China,NA,Nanning,131
+China,NA,Ningbo,135
+China,NA,Other,142
+China,NA,Qingdao,157
+China,NA,Sanya,173
+China,NA,Shanghai,250
+China,NA,Shantou,141
+China,NA,Shenyang,186
+China,NA,Shenzhen,263
+China,NA,Suzhou,148
+China,NA,Tianjin,141
+China,NA,Urumqi,146
+China,NA,Wuhan,142
+China,NA,Xiamen,175
+China,NA,Xi'an,190
+China,NA,Zhuhai,168
+Cocos (Keeling) Islands,NA,Cocos Islands,58
+Colombia,NA,Barranquilla,113
+Colombia,NA,Bogota,270
+Colombia,NA,Bucaramanga,93
+Colombia,NA,Buenaventura,101
+Colombia,NA,Cali,148
+Colombia,NA,Cartagena,263
+Colombia,NA,Cucuta,135
+Colombia,NA,Medellin,145
+Colombia,NA,Other,98
+Colombia,NA,Pasto,110
+Colombia,NA,San Andres,173
+Colombia,NA,San Jose del Guaviare,98
+Colombia,NA,Santa Marta,142
+Colombia,NA,Tumaco,91
+Comoros,NA,Moroni,116
+Comoros,NA,Other,72
+Cook Islands,NA,Other,243
+Cook Islands,NA,Rarotonga,243
+Costa Rica,NA,Other,147
+Costa Rica,NA,San Jose,147
+Cote D'Ivoire,NA,Abidjan,228
+Cote D'Ivoire,NA,Other,80
+Cote D'Ivoire,NA,Yamoussoukro,79
+Croatia,NA,Cavtat,319
+Croatia,NA,Cavtat,210
+Croatia,NA,Dubrovnik,319
+Croatia,NA,Dubrovnik,210
+Croatia,NA,Other,176
+Croatia,NA,Split,251
+Croatia,NA,Split,231
+Croatia,NA,Zagreb,176
+Cuba,NA,Camaguey,180
+Cuba,NA,Guantanamo Bay,125
+Cuba,NA,Havana,200
+Cuba,NA,Holguin,100
+Cuba,NA,Matanzas,110
+Cuba,NA,Other,100
+Cuba,NA,Santiago,130
+Cuba,NA,Trinidad,128
+Curacao,NA,Curacao,194
+Cyprus,NA,Akrotiri,262
+Cyprus,NA,Limassol,262
+Cyprus,NA,Nicosia,203
+Cyprus,NA,Other,158
+Cyprus,NA,Paphos,166
+Czech Republic,NA,Brno,132
+Czech Republic,NA,Other,139
+Czech Republic,NA,Prague,255
+Dem. People'S Republic Of Korea,NA,Other,113
+Dem. People'S Republic Of Korea,NA,Pyongyang,168
+Democratic Republic Of The Congo,NA,Bukavu,165
+Democratic Republic Of The Congo,NA,Goma,134
+Democratic Republic Of The Congo,NA,Kinshasa,240
+Democratic Republic Of The Congo,NA,Lubumbashi,197
+Democratic Republic Of The Congo,NA,"Mbuji Mayi, Kasai",120
+Democratic Republic Of The Congo,NA,Other,130
+Denmark,NA,Aalborg,201
+Denmark,NA,Copenhagen,235
+Denmark,NA,Lyngby,235
+Denmark,NA,Odense,209
+Denmark,NA,Other,212
+Djibouti,NA,Djibouti City,249
+Djibouti,NA,Other,85
+Dominica,NA,Dominica,195
+Dominican Republic,NA,Bavaro,225
+Dominican Republic,NA,La Romana,280
+Dominican Republic,NA,Other,180
+Dominican Republic,NA,Puerto Plata,200
+Dominican Republic,NA,Punta Cana,217
+Dominican Republic,NA,Santo Domingo,200
+Dominican Republic,NA,Sosua,150
+Ecuador,NA,Cuenca,122
+Ecuador,NA,Galapagos Islands,300
+Ecuador,NA,Guayaquil,149
+Ecuador,NA,Manta,118
+Ecuador,NA,Other,122
+Ecuador,NA,Quito,190
+Egypt,NA,Alexandria,175
+Egypt,NA,Aswan,135
+Egypt,NA,Aswan,165
+Egypt,NA,Cairo,175
+Egypt,NA,Luxor,150
+Egypt,NA,Other,165
+Egypt,NA,Sharm el Sheikh,140
+Egypt,NA,Sharm el Sheikh,160
+El Salvador,NA,Other,62
+El Salvador,NA,San Salvador,128
+Equatorial Guinea,NA,Bata,110
+Equatorial Guinea,NA,Malabo,178
+Equatorial Guinea,NA,Other,178
+Eritrea,NA,Asmara,125
+Eritrea,NA,Keren,60
+Eritrea,NA,Massawa,90
+Eritrea,NA,Other,60
+Estonia,NA,Other,202
+Estonia,NA,Other,169
+Estonia,NA,Tallinn,221
+Eswatini,NA,Mbabane,107
+Eswatini,NA,Other,35
+Ethiopia,NA,Addis Ababa,315
+Ethiopia,NA,Other,96
+Falkland Islands (Islas Malvinas),NA,Falkland Islands,101
+Faroe Islands,NA,Faroe Islands,228
+Fiji,NA,Korolevu,67
+Fiji,NA,Nadi,178
+Fiji,NA,Natadola,424
+Fiji,NA,Other,190
+Fiji,NA,Sigatoka,138
+Fiji,NA,Suva,190
+Finland,NA,Helsinki,277
+Finland,NA,Other,248
+France,NA,Bordeaux,206
+France,NA,Cannes,476
+France,NA,Cannes,334
+France,NA,Deauville,328
+France,NA,Lyon,283
+France,NA,Marseille,341
+France,NA,Montpellier,203
+France,NA,Nice,217
+France,NA,Other,213
+France,NA,Paris,405
+France,NA,Strasbourg,341
+France,NA,Toulouse,228
+French Guiana,NA,French Guiana,174
+French Polynesia,NA,French Polynesia,266
+Gabon,NA,Libreville,156
+Gabon,NA,Other,184
+"Gambia, The",NA,Banjul,138
+"Gambia, The",NA,Other,35
+Georgia,NA,Ajara Region,195
+Georgia,NA,Borjomi,91
+Georgia,NA,Gudauri,104
+Georgia,NA,Gudauri,162
+Georgia,NA,Kutaisi,85
+Georgia,NA,Other,72
+Georgia,NA,Tbilisi,236
+Germany,NA,Berlin,227
+Germany,NA,Boeblingen,243
+Germany,NA,Bonames,235
+Germany,NA,Bonn,220
+Germany,NA,Bremen,220
+Germany,NA,Cologne,244
+Germany,NA,Dresden,215
+Germany,NA,Duesseldorf,262
+Germany,NA,Echterdingen,243
+Germany,NA,Erfurt,231
+Germany,NA,Eschborn,235
+Germany,NA,Esslingen,243
+Germany,NA,Frankfurt,235
+Germany,NA,Garmisch-Partenkirchen,203
+Germany,NA,Hamburg,220
+Germany,NA,Hannover,197
+Germany,NA,Heidelberg,231
+Germany,NA,Herongen,262
+Germany,NA,Hoechst,235
+Germany,NA,Kalkar,262
+Germany,NA,Koenigswinter,220
+Germany,NA,Kornwestheim,243
+Germany,NA,Leipzig,203
+Germany,NA,Ludwigsburg,243
+Germany,NA,Mainz,227
+Germany,NA,Moenchen-Gladbach,262
+Germany,NA,Munich,249
+Germany,NA,Nellingen,243
+Germany,NA,Oberammergau,203
+Germany,NA,Offenbach,235
+Germany,NA,Other,220
+Germany,NA,Roedelheim,235
+Germany,NA,Sindelfingen,243
+Germany,NA,Stuttgart,243
+Germany,NA,Tuebingen,243
+Germany,NA,Twisteden,262
+Germany,NA,Wiesbaden,237
+Ghana,NA,Accra,232
+Ghana,NA,Other,120
+Gibraltar,NA,Gibraltar,214
+Greece,NA,Athens,200
+Greece,NA,Iraklion (Crete),157
+Greece,NA,Other,157
+Greenland,NA,Ilulissat,228
+Greenland,NA,Kangerlussuaq,197
+Greenland,NA,Nuuk,324
+Greenland,NA,Nuuk,278
+Greenland,NA,Other,215
+Greenland,NA,Thule,210
+Grenada,NA,Grenada,163
+Grenada,NA,Grenada,228
+Guadeloupe,NA,Other,77
+Guadeloupe,NA,Saint Martin (French Part),124
+Guatemala,NA,Guatemala City,144
+Guatemala,NA,Other,106
+Guinea,NA,Conakry,224
+Guinea,NA,Other,57
+Guinea-Bissau,NA,Bissau,160
+Guinea-Bissau,NA,Other,73
+Guyana,NA,Georgetown,220
+Guyana,NA,Other,220
+Haiti,NA,Cap Haitien,150
+Haiti,NA,Jacmel,98
+Haiti,NA,Montrouis,133
+Haiti,NA,Other,140
+Haiti,NA,Petionville,155
+Haiti,NA,Port-au-Prince,155
+Holy See,NA,Holy See,367
+Honduras,NA,Bay Islands,198
+Honduras,NA,La Ceiba,138
+Honduras,NA,Other,130
+Honduras,NA,San Pedro Sula,187
+Honduras,NA,Tegucigalpa,187
+Honduras,NA,Tela,125
+Hong Kong,NA,Hong Kong,355
+Hungary,NA,Budapest,235
+Hungary,NA,Other,130
+Hungary,NA,Papa,130
+Iceland,NA,Akureyri,143
+Iceland,NA,Egilsstadir,220
+Iceland,NA,Other,142
+Iceland,NA,Reykjavik,260
+Iceland,NA,Reykjavik,220
+India,NA,Agra,139
+India,NA,Bangalore,352
+India,NA,Chennai,252
+India,NA,Goa,217
+India,NA,Hyderabad,212
+India,NA,Kolkata,268
+India,NA,Mumbai,214
+India,NA,New Delhi,238
+India,NA,Other,196
+India,NA,Pune,187
+India,NA,Trivandrum,182
+Indonesia,NA,Bali,235
+Indonesia,NA,Bandung,218
+Indonesia,NA,Denpasar,235
+Indonesia,NA,Jakarta,252
+Indonesia,NA,Jayapura,127
+Indonesia,NA,Medan,58
+Indonesia,NA,Other,58
+Indonesia,NA,Surabaya,154
+Indonesia,NA,"Timika, Irian Jaya",254
+Iran,NA,Other,97
+Iran,NA,Tehran,97
+Iraq,NA,Baghdad,0
+Iraq,NA,Erbil,211
+Iraq,NA,Other,247
+Ireland,NA,Cork,162
+Ireland,NA,Dublin,262
+Ireland,NA,Galway,174
+Ireland,NA,Other,156
+Israel,NA,Eilat,455
+Israel,NA,En Boqeq,300
+Israel,NA,Haifa,290
+Israel,NA,Herzliya-Pituach,380
+Israel,NA,Jerusalem,400
+Israel,NA,Other,305
+Israel,NA,Sedom,300
+Israel,NA,Tel Aviv,440
+Israel,NA,Tiberias,305
+Italy,NA,Aviano,113
+Italy,NA,Bari,250
+Italy,NA,Bologna,280
+Italy,NA,Bolzano,142
+Italy,NA,Capri,422
+Italy,NA,Catania,171
+Italy,NA,Como,320
+Italy,NA,Ferrara,169
+Italy,NA,Florence,280
+Italy,NA,Gaeta,378
+Italy,NA,Gaeta,186
+Italy,NA,Genoa,232
+Italy,NA,La Spezia,145
+Italy,NA,Milan,308
+Italy,NA,Modena,174
+Italy,NA,Naples,223
+Italy,NA,Other,198
+Italy,NA,Palermo,214
+Italy,NA,Pisa,139
+Italy,NA,Ravenna,146
+Italy,NA,Reggio Emilia,171
+Italy,NA,Rimini,181
+Italy,NA,Rome,367
+Italy,NA,Siena,267
+Italy,NA,Taormina,171
+Italy,NA,Treviso,186
+Italy,NA,Trieste,221
+Italy,NA,Turin,291
+Italy,NA,Venice,372
+Italy,NA,Verona,186
+Italy,NA,Vicenza,151
+Jamaica,NA,Kingston,211
+Jamaica,NA,Montego Bay,209
+Jamaica,NA,Montego Bay,316
+Jamaica,NA,Other,211
+Japan,NA,Akashi,275
+Japan,NA,Amagasaki,275
+Japan,NA,Asahikawa,103
+Japan,NA,Ashiya,154
+Japan,NA,Awashima,288
+Japan,NA,Beppu,176
+Japan,NA,Fukui,85
+Japan,NA,Fukuoka,193
+Japan,NA,Fukuyama,85
+Japan,NA,Gifu,168
+Japan,NA,Hamamatsu,149
+Japan,NA,Hiroshima,307
+Japan,NA,Hiroshima,180
+Japan,NA,Itazuke,193
+Japan,NA,Izumisano,188
+Japan,NA,Kagoshima,155
+Japan,NA,Kanazawa,99
+Japan,NA,Kitakyushu,165
+Japan,NA,Kochi,125
+Japan,NA,Komaki,125
+Japan,NA,Kumamoto,191
+Japan,NA,Kurashiki,218
+Japan,NA,Kure,114
+Japan,NA,Kyoto,321
+Japan,NA,Matsue,85
+Japan,NA,Matsuyama,122
+Japan,NA,Miyazaki City,255
+Japan,NA,Morioka,112
+Japan,NA,Nagasaki,218
+Japan,NA,Nagoya,268
+Japan,NA,NAHA,172
+Japan,NA,Nara,108
+Japan,NA,Narita,182
+Japan,NA,Niigata,79
+Japan,NA,Nishinomiya,154
+Japan,NA,Obihiro,123
+Japan,NA,Oita,114
+Japan,NA,Okayama,146
+Japan,NA,Okinawa Prefecture,279
+Japan,NA,Okinawa Prefecture,180
+Japan,NA,Osaka,275
+Japan,NA,Other,147
+Japan,NA,Otsu,126
+Japan,NA,Oyama,86
+Japan,NA,Sapporo,270
+Japan,NA,Sasebo,121
+Japan,NA,Sendai,287
+Japan,NA,Shiga,126
+Japan,NA,Takamatsu,108
+Japan,NA,Takayama,145
+Japan,NA,Tokushima,104
+Japan,NA,Tokyo,315
+Japan,NA,Tokyo-To,151
+Japan,NA,Tottori,99
+Japan,NA,Toyama,133
+Japan,NA,Toyonaka,130
+Japan,NA,Tsu,135
+Japan,NA,Wakayama,135
+Japan,NA,Yamato,134
+Japan,NA,Yokohama,262
+Japan,NA,Yokota,125
+Japan,NA,Yufuin,157
+Jordan,NA,Amman,246
+Jordan,NA,Aqaba,146
+Jordan,NA,Dead Sea/Jordan Valley,215
+Jordan,NA,Dead Sea/Jordan Valley,199
+Jordan,NA,Other,146
+Jordan,NA,Petra,176
+Kazakhstan,NA,Aktau,213
+Kazakhstan,NA,Almaty,217
+Kazakhstan,NA,Nur-Sultan,220
+Kazakhstan,NA,Other,138
+Kenya,NA,Lamu,231
+Kenya,NA,Malindi,117
+Kenya,NA,Mara Area Region,295
+Kenya,NA,Mombasa,160
+Kenya,NA,Mt. Kenya Area,209
+Kenya,NA,Nairobi,250
+Kenya,NA,Nanyuki,97
+Kenya,NA,Other,147
+Kenya,NA,Watamu,249
+Kiribati,NA,Christmas Island,76
+Kiribati,NA,Kiribati,94
+Kiribati,NA,Other,71
+"Korea, South",NA,Busan,233
+"Korea, South",NA,Changwon,120
+"Korea, South",NA,Cheju,225
+"Korea, South",NA,Chinju,86
+"Korea, South",NA,Chongju,71
+"Korea, South",NA,Chonju,150
+"Korea, South",NA,Chung Ju,85
+"Korea, South",NA,Incheon,155
+"Korea, South",NA,Kimhae,66
+"Korea, South",NA,Kumi,105
+"Korea, South",NA,Kwangju,156
+"Korea, South",NA,Kyongju,137
+"Korea, South",NA,Masan,62
+"Korea, South",NA,Other,75
+"Korea, South",NA,Pyeongchang,201
+"Korea, South",NA,Pyongtaek,80
+"Korea, South",NA,Seoul,230
+"Korea, South",NA,Sokcho,114
+"Korea, South",NA,Taegu,129
+"Korea, South",NA,Taejon,116
+"Korea, South",NA,Uijongbu,75
+"Korea, South",NA,Ulsan,183
+Kosovo,NA,Other,56
+Kosovo,NA,Pristina,105
+Kuwait,NA,Kuwait City,325
+Kuwait,NA,Other,325
+Kyrgyzstan,NA,Bishkek,224
+Kyrgyzstan,NA,Issyk-Kul Region,130
+Kyrgyzstan,NA,Other,75
+Laos,NA,Luang Prabang,184
+Laos,NA,Other,110
+Laos,NA,Vientiane,120
+Latvia,NA,Other,82
+Latvia,NA,Riga,229
+Lebanon,NA,Beirut,135
+Lebanon,NA,Other,135
+Lesotho,NA,Maseru,120
+Lesotho,NA,Other,108
+Liberia,NA,Monrovia,200
+Liberia,NA,Other,70
+Libya,NA,Benghazi,117
+Libya,NA,Misurata,117
+Libya,NA,Other,81
+Libya,NA,Sirte,117
+Libya,NA,Tripoli,0
+Liechtenstein,NA,Liechtenstein,258
+Lithuania,NA,Other,130
+Lithuania,NA,Palanga,200
+Lithuania,NA,Palanga,160
+Lithuania,NA,Vilnius,200
+Luxembourg,NA,Luxembourg,353
+Macau,NA,Macau,321
+Madagascar,NA,Antananarivo,212
+Madagascar,NA,Nosy Be,145
+Madagascar,NA,Other,113
+Malawi,NA,Blantyre,146
+Malawi,NA,Lilongwe,150
+Malawi,NA,Mangochi,117
+Malawi,NA,Other,117
+Malawi,NA,Salima,160
+Malaysia,NA,"Kota Kinabalu, Sabah",144
+Malaysia,NA,Kuala Lumpur,186
+Malaysia,NA,Kuantan,79
+Malaysia,NA,Langkawi,239
+Malaysia,NA,Melaka,118
+Malaysia,NA,Other,97
+Malaysia,NA,Penang,127
+Maldives,NA,Maldives,310
+Maldives,NA,Male,310
+Mali,NA,Bamako,154
+Mali,NA,Other,67
+Malta,NA,Malta,302
+Marshall Islands,NA,Kwajalein Atoll,130
+Marshall Islands,NA,Likiep Atoll,76
+Marshall Islands,NA,Majuro,139
+Marshall Islands,NA,Other,50
+Martinique,NA,Martinique,170
+Mauritania,NA,Kaedi,43
+Mauritania,NA,Nouadhibou,73
+Mauritania,NA,Nouakchott,97
+Mauritania,NA,Other,43
+Mauritius,NA,Mauritius,190
+Mayotte,NA,Mayotte Islands,110
+Mexico,NA,Acapulco,170
+Mexico,NA,Campeche,106
+Mexico,NA,Cancun,242
+Mexico,NA,Chihuahua,106
+Mexico,NA,Ciudad Juarez,113
+Mexico,NA,Ciudad Victoria,96
+Mexico,NA,Colima,119
+Mexico,NA,Cozumel,151
+Mexico,NA,Cuernavaca,138
+Mexico,NA,Culiacan,79
+Mexico,NA,Ensenada,141
+Mexico,NA,Guadalajara,180
+Mexico,NA,Hermosillo,115
+Mexico,NA,Huatulco,132
+Mexico,NA,Ixtapa Zihuatanejo,99
+Mexico,NA,La Paz,130
+Mexico,NA,Los Cabos (Cabo San Lucas and San Jose del Cabo),273
+Mexico,NA,Manzanillo,145
+Mexico,NA,Matamoros,56
+Mexico,NA,Mazatlan,130
+Mexico,NA,Merida,157
+Mexico,NA,Mexicali,160
+Mexico,NA,Mexico City,244
+Mexico,NA,Monterrey,165
+Mexico,NA,Morelia,108
+Mexico,NA,Nogales,125
+Mexico,NA,Nuevo Laredo,76
+Mexico,NA,Other,102
+Mexico,NA,"Playa del Carmen, Quintana Roo",132
+Mexico,NA,Puebla,138
+Mexico,NA,Puerto Penasco,241
+Mexico,NA,Puerto Vallarta,181
+Mexico,NA,Queretaro,120
+Mexico,NA,San Carlos,110
+Mexico,NA,San Luis Potosi,154
+Mexico,NA,San Miguel de Allende,120
+Mexico,NA,Tapachula,94
+Mexico,NA,Tijuana,126
+Mexico,NA,Valle del Bravo,242
+Mexico,NA,Veracruz,120
+Mexico,NA,Zacatecas,134
+"Micronesia, Federated States Of",NA,Chuuk,141
+"Micronesia, Federated States Of",NA,Kosrae,125
+"Micronesia, Federated States Of",NA,Other,141
+"Micronesia, Federated States Of",NA,Pohnpei,127
+"Micronesia, Federated States Of",NA,Yap,132
+Moldova,NA,Chisinau,155
+Moldova,NA,Other,155
+Monaco,NA,Monaco,420
+Mongolia,NA,Other,90
+Mongolia,NA,Ulaanbaatar,185
+Montenegro,NA,Other,187
+Montenegro,NA,Podgorica,187
+Montserrat,NA,Montserrat,70
+Montserrat,NA,Montserrat,105
+Morocco,NA,Agadir,203
+Morocco,NA,Casablanca,211
+Morocco,NA,Fes,237
+Morocco,NA,Marrakech,231
+Morocco,NA,Other,175
+Morocco,NA,Rabat,235
+Morocco,NA,Tangier,217
+Morocco,NA,Taroudant,170
+Mozambique,NA,Maputo,220
+Mozambique,NA,Other,189
+Mozambique,NA,Pemba,189
+Namibia,NA,Etosha,109
+Namibia,NA,Opuwo,96
+Namibia,NA,Other,85
+Namibia,NA,Walvis Bay,113
+Namibia,NA,Windhoek,137
+Nauru,NA,Nauru,148
+Nepal,NA,Kathmandu,204
+Nepal,NA,Other,153
+Nepal,NA,Pokhara,160
+Netherlands,NA,Amsterdam,439
+Netherlands,NA,Coevorden,157
+Netherlands,NA,Eindhoven,210
+Netherlands,NA,Lisse,173
+Netherlands,NA,Maastricht,310
+Netherlands,NA,Noordwijk,191
+Netherlands,NA,Other,185
+Netherlands,NA,Papendrecht,272
+Netherlands,NA,Rotterdam,272
+Netherlands,NA,Schiphol,469
+Netherlands,NA,The Hague,331
+Netherlands,NA,Utrecht,165
+Netherlands,NA,Ypenburg,331
+New Caledonia,NA,New Caledonia,192
+New Zealand,NA,Auckland,255
+New Zealand,NA,Christchurch,175
+New Zealand,NA,Dunedin,135
+New Zealand,NA,Other,117
+New Zealand,NA,Queenstown,290
+New Zealand,NA,Rotorua,138
+New Zealand,NA,Wellington,184
+Nicaragua,NA,Corn Island,116
+Nicaragua,NA,Managua,172
+Nicaragua,NA,Other,98
+Nicaragua,NA,San Juan del Sur,242
+Niger,NA,Niamey,193
+Niger,NA,Other,99
+Nigeria,NA,Abuja,265
+Nigeria,NA,Kaduna,265
+Nigeria,NA,Lagos,298
+Nigeria,NA,Other,318
+Nigeria,NA,Port Harcourt,318
+Niue,NA,Niue,180
+North Macedonia,NA,Ohrid,89
+North Macedonia,NA,Other,89
+North Macedonia,NA,Skopje,160
+Norway,NA,Oslo,203
+Norway,NA,Other,203
+Norway,NA,Stavanger,217
+Oman,NA,Duqm,179
+Oman,NA,Muscat,261
+Oman,NA,Other,211
+Oman,NA,Other,167
+Oman,NA,Salalah,211
+Oman,NA,Salalah,167
+Other Foreign Localities,NA,Other Foreign Localities,48
+Pakistan,NA,Faisalabad,163
+Pakistan,NA,Islamabad,130
+Pakistan,NA,Karachi,98
+Pakistan,NA,Lahore,231
+Pakistan,NA,Other,177
+Pakistan,NA,Peshawar,124
+Pakistan,NA,Quetta,177
+Palau,NA,Koror,204
+Palau,NA,Other,204
+Panama,NA,Colon,114
+Panama,NA,"David, Chiriqui",114
+Panama,NA,Other,84
+Panama,NA,Panama City,173
+Papua New Guinea,NA,Other,162
+Papua New Guinea,NA,Port Moresby,268
+Paraguay,NA,Asuncion,175
+Paraguay,NA,Ciudad del Este,133
+Paraguay,NA,Other,62
+Paraguay,NA,Pegro Juan,45
+Peru,NA,Cusco,213
+Peru,NA,Lima,250
+Peru,NA,Other,127
+Peru,NA,Paracas,196
+Philippines,NA,Baguio City,132
+Philippines,NA,Cebu,132
+Philippines,NA,Clark AFB,115
+Philippines,NA,Davao City,101
+Philippines,NA,Mactan,161
+Philippines,NA,Manila,205
+Philippines,NA,Other,96
+Poland,NA,Bydgoszcz,110
+Poland,NA,Gdansk,140
+Poland,NA,Katowice,124
+Poland,NA,Kielce,117
+Poland,NA,Krakow,205
+Poland,NA,Lodz,108
+Poland,NA,Other,98
+Poland,NA,Poznan,126
+Poland,NA,Warsaw,175
+Poland,NA,Wroclaw,130
+Poland,NA,Zakopane,114
+Portugal,NA,Cascais,106
+Portugal,NA,Estoril,106
+Portugal,NA,Faial Island,105
+Portugal,NA,Faial Island,97
+Portugal,NA,Lisbon,181
+Portugal,NA,Madeira Islands,110
+Portugal,NA,Oeiras,106
+Portugal,NA,Oporto,177
+Portugal,NA,Other,98
+Portugal,NA,Ponta Delgada,180
+Portugal,NA,Ponta Delgada,141
+Portugal,NA,Sao Miguel Island,233
+Qatar,NA,Doha,227
+Qatar,NA,Other,227
+Republic Of The Congo,NA,Brazzaville,287
+Republic Of The Congo,NA,Other,287
+Reunion,NA,Reunion,145
+Romania,NA,Bucharest,170
+Romania,NA,Constanta-Mihail Kogalniceanu AB,155
+Romania,NA,Constanta-Mihail Kogalniceanu AB,89
+Romania,NA,Other,124
+Russia,NA,Moscow,195
+Russia,NA,Other,173
+Russia,NA,Saint Petersburg,352
+Russia,NA,Sochi,305
+Russia,NA,Vladivostok,214
+Russia,NA,Yekaterinburg,173
+Russia,NA,Yuzhno-Sakhalinsk,250
+Rwanda,NA,Akagera,107
+Rwanda,NA,Gisenyi,112
+Rwanda,NA,Kigali,203
+Rwanda,NA,Other,112
+Rwanda,NA,Ruhengeri,84
+Saint Helena,NA,Saint Helena,43
+Saint Kitts And Nevis,NA,Saint Kitts and Nevis,220
+Saint Vincent And The Grenadines,NA,Saint Vincent and the Grenadines,150
+Samoa,NA,Samoa,186
+San Marino,NA,San Marino,116
+Sao Tome And Principe,NA,Principe,258
+Sao Tome And Principe,NA,Sao Tome,154
+Saudi Arabia,NA,Dhahran Area,260
+Saudi Arabia,NA,Eskan,80
+Saudi Arabia,NA,Jeddah,347
+Saudi Arabia,NA,Medina,169
+Saudi Arabia,NA,Medina,100
+Saudi Arabia,NA,Other,347
+Saudi Arabia,NA,Riyadh,416
+Saudi Arabia,NA,Taif,133
+Saudi Arabia,NA,Taif,111
+Senegal,NA,Dakar,195
+Senegal,NA,Mbour,96
+Senegal,NA,Other,79
+Serbia,NA,Belgrade,205
+Serbia,NA,Kopaonik,152
+Serbia,NA,Other,98
+Seychelles,NA,Seychelles,303
+Sierra Leone,NA,Freetown,180
+Sierra Leone,NA,Other,130
+Singapore,NA,Singapore,288
+Sint Maarten,NA,Sint Maarten,180
+Slovakia,NA,Bratislava,171
+Slovakia,NA,Liptovsky Mikulas,126
+Slovakia,NA,Other,113
+Slovakia,NA,Zilina,134
+Slovenia,NA,Ljubljana,170
+Slovenia,NA,Other,170
+Slovenia,NA,Portoroz,207
+Solomon Islands,NA,Honiara,270
+Solomon Islands,NA,Other,270
+Somalia,NA,Mogadishu,0
+Somalia,NA,Other,112
+South Africa,NA,Bloemfontein,117
+South Africa,NA,Cape Town,206
+South Africa,NA,Durban,210
+South Africa,NA,Johannesburg,238
+South Africa,NA,Other,109
+South Africa,NA,Pretoria,161
+South Africa,NA,Sun City,118
+South Sudan,NA,Juba,275
+South Sudan,NA,Other,275
+Spain,NA,Almeria,163
+Spain,NA,Balearic Islands,190
+Spain,NA,Barcelona,236
+Spain,NA,Bilbao,183
+Spain,NA,Fuengirola,153
+Spain,NA,La Coruna,146
+Spain,NA,Las Palmas de Gran Canaria,185
+Spain,NA,Madrid,243
+Spain,NA,Malaga,211
+Spain,NA,Marbella,145
+Spain,NA,Other,148
+Spain,NA,Oviedo,119
+Spain,NA,San Sebastian,136
+Spain,NA,Santa Cruz de Tenerife,125
+Spain,NA,Santander,167
+Spain,NA,Santiago de Compostela,167
+Spain,NA,Seville,161
+Spain,NA,Valencia,175
+Spain,NA,Vigo,139
+Spain,NA,Zaragoza,234
+Sri Lanka,NA,Ahungalla,110
+Sri Lanka,NA,Bentota,104
+Sri Lanka,NA,Chilaw,98
+Sri Lanka,NA,Colombo,233
+Sri Lanka,NA,Galle,145
+Sri Lanka,NA,Kandy,177
+Sri Lanka,NA,Other,107
+Sri Lanka,NA,Trincomalee,155
+St Lucia,NA,Saint Lucia,284
+St Lucia,NA,Saint Lucia,248
+Sudan,NA,Khartoum,265
+Sudan,NA,Other,210
+Suriname,NA,Other,149
+Suriname,NA,Paramaribo,149
+Sweden,NA,Other,275
+Sweden,NA,Stockholm,275
+Switzerland,NA,Bad Ragaz,427
+Switzerland,NA,Basel,247
+Switzerland,NA,Bern,300
+Switzerland,NA,Davos,353
+Switzerland,NA,Geneva,332
+Switzerland,NA,Klosters,290
+Switzerland,NA,Lugano,268
+Switzerland,NA,Montreux,355
+Switzerland,NA,Other,242
+Switzerland,NA,Zurich,378
+Syria,NA,Damascus,205
+Syria,NA,Other,205
+Taiwan,NA,Kaohsiung,144
+Taiwan,NA,Other,121
+Taiwan,NA,Taichung,123
+Taiwan,NA,Taipei,191
+Tajikistan,NA,Dushanbe,229
+Tajikistan,NA,Khorog,176
+Tajikistan,NA,Kulob,100
+Tajikistan,NA,Other,100
+Tanzania,NA,Arusha,143
+Tanzania,NA,Dar Es Salaam,207
+Tanzania,NA,Dodoma,112
+Tanzania,NA,Morogoro,137
+Tanzania,NA,Other,110
+Tanzania,NA,Zanzibar,187
+Thailand,NA,Bangkok,146
+Thailand,NA,Cha Am,162
+Thailand,NA,Chiang Mai,127
+Thailand,NA,Chiang Rai,105
+Thailand,NA,Hat Yai,105
+Thailand,NA,Hua Hin,162
+Thailand,NA,Khao Lak,207
+Thailand,NA,Krabi,207
+Thailand,NA,Nong Khai,82
+Thailand,NA,Other,82
+Thailand,NA,Pattaya City,123
+Thailand,NA,Phuket,207
+Thailand,NA,Samui Island,183
+Timor-Leste,NA,Dili,184
+Timor-Leste,NA,Other,70
+Togo,NA,Kpalime,63
+Togo,NA,Lama Kara,58
+Togo,NA,Lome,184
+Togo,NA,Other,32
+Togo,NA,Sokode,56
+Tokelau,NA,Tokelau Islands,20
+Tonga,NA,Nukualofa,129
+Tonga,NA,Other,129
+Trinidad And Tobago,NA,Other,236
+Trinidad And Tobago,NA,Port of Spain,236
+Trinidad And Tobago,NA,Tobago,220
+Tunisia,NA,Hammamet,142
+Tunisia,NA,Hammamet,70
+Tunisia,NA,Jerba,64
+Tunisia,NA,Other,57
+Tunisia,NA,Tabarka,167
+Tunisia,NA,Tabarka,151
+Tunisia,NA,Tamerza,57
+Tunisia,NA,Tozeur,62
+Tunisia,NA,Tunis,128
+Turkey,NA,Adana-Incirlik,165
+Turkey,NA,Ankara,162
+Turkey,NA,Antalya,189
+Turkey,NA,Aydin,160
+Turkey,NA,Bursa,158
+Turkey,NA,Elmadag,162
+Turkey,NA,Gaziantep,140
+Turkey,NA,Istanbul,226
+Turkey,NA,Izmir-Cigli,246
+Turkey,NA,Manzarali,162
+Turkey,NA,Nevsehir,140
+Turkey,NA,Other,120
+Turkey,NA,Yamanlar,246
+Turkmenistan,NA,Ashgabat,115
+Turkmenistan,NA,Other,100
+Turks And Caicos Islands,NA,Turks and Caicos Islands,304
+Turks And Caicos Islands,NA,Turks and Caicos Islands,231
+Tuvalu,NA,Tuvalu,112
+Uganda,NA,Entebbe,172
+Uganda,NA,Fort Portal,113
+Uganda,NA,Gulu,69
+Uganda,NA,Jinja,120
+Uganda,NA,Kampala,250
+Uganda,NA,Mbale,71
+Uganda,NA,Mbarara,100
+Uganda,NA,Other,69
+Ukraine,NA,Kharkiv,152
+Ukraine,NA,Kyiv,243
+Ukraine,NA,Other,140
+United Arab Emirates,NA,Abu Dhabi,268
+United Arab Emirates,NA,Dubai,385
+United Arab Emirates,NA,Other,268
+United Kingdom,NA,Belfast,203
+United Kingdom,NA,Birmingham,169
+United Kingdom,NA,Bristol,202
+United Kingdom,NA,Cambridge,270
+United Kingdom,NA,"Cardiff, Wales",176
+United Kingdom,NA,Caversham,231
+United Kingdom,NA,Cheltenham,156
+United Kingdom,NA,Crawley,305
+United Kingdom,NA,Edinburgh,604
+United Kingdom,NA,Edinburgh,190
+United Kingdom,NA,Fairford,176
+United Kingdom,NA,Gatwick,178
+United Kingdom,NA,Glasgow,169
+United Kingdom,NA,Harrogate,118
+United Kingdom,NA,High Wycombe,158
+United Kingdom,NA,Horley,178
+United Kingdom,NA,Liverpool,226
+United Kingdom,NA,London,305
+United Kingdom,NA,Loudwater,148
+United Kingdom,NA,Manchester,246
+United Kingdom,NA,Menwith Hill,118
+United Kingdom,NA,Other,207
+United Kingdom,NA,Oxford,270
+United Kingdom,NA,Reading,231
+Uruguay,NA,Colonia,186
+Uruguay,NA,Montevideo,155
+Uruguay,NA,Other,155
+Uruguay,NA,Punta del Este,220
+Uruguay,NA,Punta del Este,264
+Uzbekistan,NA,Other,80
+Uzbekistan,NA,Tashkent,180
+Vanuatu,NA,Other,20
+Vanuatu,NA,Port Vila,176
+Vanuatu,NA,Santos,190
+Vanuatu,NA,Tanna Island,267
+Venezuela,NA,Barquisimeto,263
+Venezuela,NA,Caracas,314
+Venezuela,NA,Maracaibo,276
+Venezuela,NA,Other,278
+Venezuela,NA,Porlamar,266
+Venezuela,NA,Puerto La Cruz,278
+Venezuela,NA,Puerto Ordaz,285
+Venezuela,NA,Punto Fijo,241
+Venezuela,NA,San Cristobal,278
+Venezuela,NA,Valencia,249
+Vietnam,NA,Dalat,138
+Vietnam,NA,Danang,175
+Vietnam,NA,Hanoi,228
+Vietnam,NA,Ho Chi Minh City,222
+Vietnam,NA,Other,151
+"Virgin Islands, British",NA,"Virgin Islands, British",138
+"Virgin Islands, British",NA,"Virgin Islands, British",192
+Wallis And Futuna,NA,Wallis and Futuna,73
+Yemen,NA,Aden,164
+Yemen,NA,Other,108
+Yemen,NA,Sanaa,360
+Zambia,NA,Chipata,110
+Zambia,NA,Kitwe,106
+Zambia,NA,Livingstone,236
+Zambia,NA,Lusaka,220
+Zambia,NA,Mfuwe,100
+Zambia,NA,Ndola,112
+Zambia,NA,Other,95
+Zambia,NA,Solwezi,100
+Zimbabwe,NA,Bulawayo,138
+Zimbabwe,NA,Harare,192
+Zimbabwe,NA,Other,129
+Zimbabwe,NA,Victoria Falls,243
+United States,AL,Birmingham,113
+United States,AL,Gulf Shores,111
+United States,AL,Gulf Shores,136
+United States,AL,Gulf Shores,173
+United States,AL,Gulf Shores,111
+United States,AL,Mobile,96
+United States,AL,Mobile,105
+United States,AL,Mobile,96
+United States,AR,Hot Springs,103
+United States,AZ,Grand Canyon / Flagstaff,138
+United States,AZ,Grand Canyon / Flagstaff,96
+United States,AZ,Grand Canyon / Flagstaff,118
+United States,AZ,Grand Canyon / Flagstaff,138
+United States,AZ,Kayenta,134
+United States,AZ,Kayenta,102
+United States,AZ,Kayenta,134
+United States,AZ,Phoenix / Scottsdale,151
+United States,AZ,Phoenix / Scottsdale,96
+United States,AZ,Phoenix / Scottsdale,151
+United States,AZ,Sedona,180
+United States,AZ,Sedona,146
+United States,AZ,Sedona,220
+United States,AZ,Sedona,154
+United States,AZ,Sedona,180
+United States,AZ,Tucson,96
+United States,AZ,Tucson,133
+United States,AZ,Tucson,96
+United States,CA,Antioch / Brentwood / Concord,165
+United States,CA,Bakersfield / Ridgecrest,116
+United States,CA,Barstow / Ontario / Victorville,111
+United States,CA,Death Valley,130
+United States,CA,Death Valley,109
+United States,CA,Death Valley,130
+United States,CA,Eureka / Arcata / McKinleyville,101
+United States,CA,Eureka / Arcata / McKinleyville,129
+United States,CA,Eureka / Arcata / McKinleyville,101
+United States,CA,Fresno,110
+United States,CA,Los Angeles,182
+United States,CA,Los Angeles,168
+United States,CA,Los Angeles,182
+United States,CA,Mammoth Lakes,126
+United States,CA,Mammoth Lakes,148
+United States,CA,Mammoth Lakes,126
+United States,CA,Mill Valley / San Rafael / Novato,189
+United States,CA,Mill Valley / San Rafael / Novato,166
+United States,CA,Mill Valley / San Rafael / Novato,189
+United States,CA,Monterey,166
+United States,CA,Monterey,240
+United States,CA,Monterey,166
+United States,CA,Napa,213
+United States,CA,Napa,160
+United States,CA,Napa,213
+United States,CA,Oakhurst,104
+United States,CA,Oakhurst,137
+United States,CA,Oakland,189
+United States,CA,Palm Springs,114
+United States,CA,Palm Springs,144
+United States,CA,Palm Springs,114
+United States,CA,Point Arena / Gualala,129
+United States,CA,Sacramento,145
+United States,CA,San Diego,161
+United States,CA,San Diego,181
+United States,CA,San Diego,161
+United States,CA,San Francisco,288
+United States,CA,San Francisco,333
+United States,CA,San Francisco,270
+United States,CA,San Francisco,288
+United States,CA,San Luis Obispo,124
+United States,CA,San Mateo / Foster City / Belmont,222
+United States,CA,Santa Barbara,177
+United States,CA,Santa Barbara,228
+United States,CA,Santa Barbara,177
+United States,CA,Santa Cruz,128
+United States,CA,Santa Cruz,172
+United States,CA,Santa Cruz,128
+United States,CA,Santa Monica ,239
+United States,CA,Santa Monica ,284
+United States,CA,Santa Monica ,239
+United States,CA,Santa Rosa,157
+United States,CA,South Lake Tahoe,135
+United States,CA,South Lake Tahoe,120
+United States,CA,South Lake Tahoe,135
+United States,CA,Stockton ,140
+United States,CA,Sunnyvale / Palo Alto / San Jose,245
+United States,CA,Tahoe City,124
+United States,CA,Truckee,126
+United States,CA,Visalia,113
+United States,CA,West Sacramento / Davis,133
+United States,CA,Yosemite National Park,120
+United States,CA,Yosemite National Park,136
+United States,CA,Yosemite National Park,120
+United States,CO,Aspen,188
+United States,CO,Aspen,375
+United States,CO,Aspen,147
+United States,CO,Aspen,188
+United States,CO,Boulder / Broomfield,128
+United States,CO,Boulder / Broomfield,160
+United States,CO,Boulder / Broomfield,128
+United States,CO,Colorado Springs,112
+United States,CO,Colorado Springs,147
+United States,CO,Colorado Springs,112
+United States,CO,Cortez,96
+United States,CO,Cortez,122
+United States,CO,Crested Butte / Gunnison,126
+United States,CO,Crested Butte / Gunnison,175
+United States,CO,Crested Butte / Gunnison,106
+United States,CO,Crested Butte / Gunnison,126
+United States,CO,Denver / Aurora,199
+United States,CO,Denver / Aurora,153
+United States,CO,Denver / Aurora,162
+United States,CO,Denver / Aurora,199
+United States,CO,Douglas ,115
+United States,CO,Douglas ,140
+United States,CO,Douglas ,115
+United States,CO,Durango,102
+United States,CO,Durango,151
+United States,CO,Fort Collins / Loveland,113
+United States,CO,Grand Lake,138
+United States,CO,Grand Lake,217
+United States,CO,Grand Lake,114
+United States,CO,Grand Lake,138
+United States,CO,Montrose,99
+United States,CO,Montrose,113
+United States,CO,Montrose,99
+United States,CO,Silverthorne / Breckenridge,152
+United States,CO,Silverthorne / Breckenridge,250
+United States,CO,Silverthorne / Breckenridge,119
+United States,CO,Silverthorne / Breckenridge,152
+United States,CO,Steamboat Springs,115
+United States,CO,Steamboat Springs,129
+United States,CO,Steamboat Springs,96
+United States,CO,Steamboat Springs,115
+United States,CO,Telluride,197
+United States,CO,Telluride,418
+United States,CO,Telluride,197
+United States,CO,Vail,179
+United States,CO,Vail,397
+United States,CO,Vail,179
+United States,CT,Bridgeport / Danbury,125
+United States,CT,Cromwell / Old Saybrook,97
+United States,CT,Hartford,132
+United States,CT,New Haven,114
+United States,CT,New London / Groton,104
+United States,DC,"Washington, D.C.",257
+United States,DC,"Washington, D.C.",188
+United States,DC,"Washington, D.C.",258
+United States,DC,"Washington, D.C.",172
+United States,DC,"Washington, D.C.",257
+United States,DE,Lewes,96
+United States,DE,Lewes,138
+United States,DE,Lewes,200
+United States,DE,Lewes,96
+United States,DE,Wilmington,131
+United States,FL,Boca Raton / Delray Beach / Jupiter,121
+United States,FL,Boca Raton / Delray Beach / Jupiter,205
+United States,FL,Boca Raton / Delray Beach / Jupiter,121
+United States,FL,Bradenton,96
+United States,FL,Bradenton,111
+United States,FL,Bradenton,150
+United States,FL,Bradenton,96
+United States,FL,Cocoa Beach,141
+United States,FL,Cocoa Beach,171
+United States,FL,Cocoa Beach,141
+United States,FL,Daytona Beach,96
+United States,FL,Daytona Beach,130
+United States,FL,Daytona Beach,114
+United States,FL,Daytona Beach,96
+United States,FL,Fort Lauderdale,151
+United States,FL,Fort Lauderdale,204
+United States,FL,Fort Lauderdale,123
+United States,FL,Fort Myers,117
+United States,FL,Fort Myers,208
+United States,FL,Fort Myers,117
+United States,FL,Fort Walton Beach / De Funiak Springs,142
+United States,FL,Fort Walton Beach / De Funiak Springs,96
+United States,FL,Fort Walton Beach / De Funiak Springs,166
+United States,FL,Fort Walton Beach / De Funiak Springs,238
+United States,FL,Fort Walton Beach / De Funiak Springs,142
+United States,FL,Gulf Breeze,100
+United States,FL,Gulf Breeze,129
+United States,FL,Gulf Breeze,177
+United States,FL,Gulf Breeze,100
+United States,FL,Key West,207
+United States,FL,Key West,304
+United States,FL,Key West,208
+United States,FL,Key West,172
+United States,FL,Miami,127
+United States,FL,Miami,192
+United States,FL,Miami,150
+United States,FL,Miami,115
+United States,FL,Naples,121
+United States,FL,Naples,194
+United States,FL,Naples,235
+United States,FL,Naples,121
+United States,FL,Orlando,129
+United States,FL,Orlando,153
+United States,FL,Orlando,129
+United States,FL,Panama City,146
+United States,FL,Panama City,165
+United States,FL,Panama City,146
+United States,FL,Pensacola ,109
+United States,FL,Pensacola ,134
+United States,FL,Pensacola ,170
+United States,FL,Pensacola ,109
+United States,FL,Punta Gorda,96
+United States,FL,Punta Gorda,163
+United States,FL,Punta Gorda,96
+United States,FL,Sarasota,103
+United States,FL,Sarasota,154
+United States,FL,Sarasota,103
+United States,FL,Sebring,96
+United States,FL,Sebring,159
+United States,FL,Sebring,96
+United States,FL,St. Augustine,133
+United States,FL,Stuart,111
+United States,FL,Stuart,169
+United States,FL,Stuart,111
+United States,FL,Tallahassee,111
+United States,FL,Tallahassee,148
+United States,FL,Tallahassee,111
+United States,FL,Tampa / St. Petersburg,124
+United States,FL,Tampa / St. Petersburg,163
+United States,FL,Tampa / St. Petersburg,124
+United States,FL,Vero Beach,131
+United States,FL,Vero Beach,188
+United States,FL,Vero Beach,131
+United States,GA,Athens,107
+United States,GA,Atlanta,163
+United States,GA,Augusta,107
+United States,GA,Jekyll Island / Brunswick,143
+United States,GA,Jekyll Island / Brunswick,190
+United States,GA,Jekyll Island / Brunswick,143
+United States,GA,Marietta,121
+United States,GA,Savannah,120
+United States,GA,Savannah,138
+United States,GA,Savannah,120
+United States,IA,Dallas,105
+United States,IA,Dallas,111
+United States,IA,Dallas,105
+United States,IA,Des Moines,111
+United States,ID,Boise,147
+United States,ID,Coeur d'Alene,96
+United States,ID,Coeur d'Alene,146
+United States,ID,Coeur d'Alene,96
+United States,ID,Sun Valley / Ketchum,108
+United States,ID,Sun Valley / Ketchum,138
+United States,IL,Bolingbrook / Romeoville / Lemont,105
+United States,IL,Chicago,218
+United States,IL,Chicago,134
+United States,IL,Chicago,216
+United States,IL,Chicago,187
+United States,IL,Chicago,218
+United States,IL,East St. Louis / O'Fallon / Fairview Heights,141
+United States,IL,Oak Brook Terrace,114
+United States,IN,Bloomington ,96
+United States,IN,Bloomington ,106
+United States,IN,Bloomington ,96
+United States,IN,Ft. Wayne,108
+United States,IN,Hammond / Munster / Merrillville,102
+United States,IN,Indianapolis / Carmel,127
+United States,IN,Lafayette / West Lafayette,100
+United States,IN,Lafayette / West Lafayette,118
+United States,KS,Kansas City / Overland Park,123
+United States,KS,Wichita,103
+United States,KY,Boone,114
+United States,KY,Kenton,151
+United States,KY,Lexington,110
+United States,KY,Louisville,131
+United States,KY,Louisville,113
+United States,KY,Louisville,139
+United States,KY,Louisville,131
+United States,LA,Alexandria / Leesville / Natchitoches,99
+United States,LA,Baton Rouge,99
+United States,LA,New Orleans,136
+United States,LA,New Orleans,158
+United States,LA,New Orleans,136
+United States,MA,Andover,123
+United States,MA,Boston,309
+United States,MA,Boston,185
+United States,MA,Boston,281
+United States,MA,Boston,264
+United States,MA,Boston,309
+United States,MA,Burlington / Woburn,168
+United States,MA,Burlington / Woburn,142
+United States,MA,Burlington / Woburn,168
+United States,MA,Falmouth,134
+United States,MA,Falmouth,171
+United States,MA,Falmouth,273
+United States,MA,Falmouth,134
+United States,MA,Hyannis,114
+United States,MA,Hyannis,197
+United States,MA,Hyannis,114
+United States,MA,Martha's Vineyard,158
+United States,MA,Martha's Vineyard,340
+United States,MA,Nantucket,163
+United States,MA,Nantucket,354
+United States,MA,Northampton,122
+United States,MA,Pittsfield,118
+United States,MA,Pittsfield,154
+United States,MA,Pittsfield,118
+United States,MA,Plymouth / Taunton / New Bedford,113
+United States,MA,Quincy,150
+United States,MA,Springfield,115
+United States,MA,Worcester,125
+United States,MD,Aberdeen / Bel Air / Belcamp,104
+United States,MD,Annapolis,133
+United States,MD,Annapolis,106
+United States,MD,Annapolis,133
+United States,MD,Baltimore City,137
+United States,MD,Baltimore City,151
+United States,MD,Baltimore City,137
+United States,MD,Baltimore County,101
+United States,MD,Cambridge / St. Michaels,121
+United States,MD,Cambridge / St. Michaels,161
+United States,MD,Cambridge / St. Michaels,121
+United States,MD,Centreville,119
+United States,MD,Columbia,106
+United States,MD,Frederick,100
+United States,MD,Ocean City,106
+United States,MD,Ocean City,256
+United States,MD,Ocean City,106
+United States,ME,Bar Harbor / Rockport,166
+United States,ME,Bar Harbor / Rockport,124
+United States,ME,Bar Harbor / Rockport,209
+United States,ME,Bar Harbor / Rockport,166
+United States,ME,Kennebunk / Kittery / Sanford,131
+United States,ME,Kennebunk / Kittery / Sanford,103
+United States,ME,Kennebunk / Kittery / Sanford,200
+United States,ME,Kennebunk / Kittery / Sanford,131
+United States,ME,Portland,149
+United States,ME,Portland,110
+United States,ME,Portland,176
+United States,ME,Portland,149
+United States,MI,Ann Arbor,118
+United States,MI,Ann Arbor,134
+United States,MI,Ann Arbor,118
+United States,MI,Detroit,133
+United States,MI,East Lansing / Lansing,106
+United States,MI,Grand Rapids,114
+United States,MI,Holland,116
+United States,MI,Holland,122
+United States,MI,Holland,116
+United States,MI,Kalamazoo / Battle Creek ,104
+United States,MI,Mackinac Island,96
+United States,MI,Mackinac Island,134
+United States,MI,Mackinac Island,96
+United States,MI,Midland,119
+United States,MI,Muskegon,96
+United States,MI,Muskegon,126
+United States,MI,Muskegon,96
+United States,MI,Petoskey,110
+United States,MI,Petoskey,203
+United States,MI,Petoskey,110
+United States,MI,Pontiac / Auburn Hills ,117
+United States,MI,South Haven,96
+United States,MI,South Haven,115
+United States,MI,South Haven,96
+United States,MI,Traverse City,110
+United States,MI,Traverse City,195
+United States,MI,Traverse City,110
+United States,MN,Duluth,165
+United States,MN,Duluth,121
+United States,MN,Duluth,165
+United States,MN,Eagan / Burnsville / Mendota Heights,100
+United States,MN,Minneapolis / St. Paul,148
+United States,MN,Rochester,133
+United States,MO,Kansas City,123
+United States,MO,St. Louis,141
+United States,MS,Oxford,99
+United States,MS,Southaven,109
+United States,MS,Starkville ,103
+United States,MT,Big Sky / West Yellowstone/Gardiner,124
+United States,MT,Big Sky / West Yellowstone/Gardiner,241
+United States,MT,Helena,103
+United States,MT,Kalispell/Whitefish,96
+United States,MT,Kalispell/Whitefish,177
+United States,MT,Kalispell/Whitefish,96
+United States,MT,Missoula,96
+United States,MT,Missoula,131
+United States,NC,Asheville ,120
+United States,NC,Asheville ,97
+United States,NC,Asheville ,120
+United States,NC,Atlantic Beach / Morehead City,100
+United States,NC,Atlantic Beach / Morehead City,132
+United States,NC,Atlantic Beach / Morehead City,100
+United States,NC,Chapel Hill,111
+United States,NC,Charlotte,129
+United States,NC,Durham,115
+United States,NC,Fayetteville,109
+United States,NC,Greensboro,112
+United States,NC,Greensboro,103
+United States,NC,Kill Devil Hills,96
+United States,NC,Kill Devil Hills,151
+United States,NC,Raleigh,123
+United States,NC,Wilmington,119
+United States,NE,Omaha,110
+United States,NH,Concord,111
+United States,NH,Conway,132
+United States,NH,Conway,116
+United States,NH,Conway,155
+United States,NH,Conway,132
+United States,NH,Durham,110
+United States,NH,Durham,137
+United States,NH,Durham,110
+United States,NH,Laconia,149
+United States,NH,Laconia,122
+United States,NH,Laconia,149
+United States,NH,Lebanon / Lincoln / West Lebanon,141
+United States,NH,Manchester,124
+United States,NH,Manchester,111
+United States,NH,Manchester,124
+United States,NH,Portsmouth,145
+United States,NH,Portsmouth,115
+United States,NH,Portsmouth,163
+United States,NH,Portsmouth,145
+United States,NJ,Cherry Hill / Moorestown,99
+United States,NJ,Eatontown / Freehold,120
+United States,NJ,Edison / Piscataway,116
+United States,NJ,Flemington,126
+United States,NJ,Newark,147
+United States,NJ,Parsippany,161
+United States,NJ,Princeton / Trenton,137
+United States,NJ,Somerset,153
+United States,NJ,Springfield / Cranford / New Providence,126
+United States,NJ,Toms River,120
+United States,NJ,Toms River,165
+United States,NJ,Toms River,120
+United States,NM,Albuquerque,111
+United States,NM,Carlsbad,212
+United States,NM,Santa Fe,133
+United States,NM,Santa Fe,104
+United States,NM,Santa Fe,133
+United States,NM,Taos,103
+United States,NV,Incline Village / Reno / Sparks,102
+United States,NV,Incline Village / Reno / Sparks,126
+United States,NV,Incline Village / Reno / Sparks,102
+United States,NV,Las Vegas,120
+United States,NY,Albany,114
+United States,NY,Binghamton,101
+United States,NY,Buffalo,106
+United States,NY,Floral Park / Garden City / Great Neck,150
+United States,NY,Glens Falls,102
+United States,NY,Glens Falls,168
+United States,NY,Glens Falls,102
+United States,NY,Ithaca,134
+United States,NY,Ithaca,104
+United States,NY,Ithaca,134
+United States,NY,Kingston,113
+United States,NY,Lake Placid,125
+United States,NY,Lake Placid,112
+United States,NY,Lake Placid,182
+United States,NY,Lake Placid,125
+United States,NY,New York City,286
+United States,NY,New York City,159
+United States,NY,New York City,258
+United States,NY,New York City,220
+United States,NY,New York City,286
+United States,NY,Niagara Falls,96
+United States,NY,Niagara Falls,115
+United States,NY,Niagara Falls,96
+United States,NY,Nyack / Palisades,117
+United States,NY,Poughkeepsie,106
+United States,NY,Riverhead / Ronkonkoma / Melville,145
+United States,NY,Rochester,114
+United States,NY,Saratoga Springs / Schenectady,116
+United States,NY,Saratoga Springs / Schenectady,180
+United States,NY,Saratoga Springs / Schenectady,116
+United States,NY,Syracuse / Oswego,101
+United States,NY,Tarrytown / White Plains / New Rochelle,142
+United States,NY,Troy ,108
+United States,NY,West Point,110
+United States,OH,Akron,99
+United States,OH,Canton,96
+United States,OH,Canton,108
+United States,OH,Canton,96
+United States,OH,Cincinnati,151
+United States,OH,Cleveland,137
+United States,OH,Columbus,122
+United States,OH,Dayton / Fairborn,109
+United States,OH,Hamilton,117
+United States,OH,Mentor,105
+United States,OH,Sandusky,101
+United States,OH,Sandusky,119
+United States,OH,Sandusky,101
+United States,OH,Wooster,101
+United States,OK,Oklahoma City,104
+United States,OR,Beaverton,136
+United States,OR,Bend,115
+United States,OR,Bend,161
+United States,OR,Bend,115
+United States,OR,Clackamas,115
+United States,OR,Clackamas,138
+United States,OR,Clackamas,115
+United States,OR,Eugene / Florence,108
+United States,OR,Lincoln City,114
+United States,OR,Lincoln City,162
+United States,OR,Lincoln City,114
+United States,OR,Portland,182
+United States,OR,Portland,152
+United States,OR,Portland,182
+United States,OR,Seaside,110
+United States,OR,Seaside,182
+United States,OR,Seaside,110
+United States,PA,Allentown / Easton / Bethlehem,109
+United States,PA,Bucks,102
+United States,PA,Bucks,116
+United States,PA,Bucks,102
+United States,PA,Chester / Radnor / Essington,119
+United States,PA,Erie,98
+United States,PA,Gettysburg,103
+United States,PA,Gettysburg,96
+United States,PA,Gettysburg,103
+United States,PA,Harrisburg,117
+United States,PA,Hershey,128
+United States,PA,Hershey,113
+United States,PA,Hershey,175
+United States,PA,Hershey,128
+United States,PA,Lancaster,107
+United States,PA,Malvern / Frazer / Berwyn,129
+United States,PA,Montgomery,126
+United States,PA,Philadelphia,198
+United States,PA,Philadelphia,149
+United States,PA,Philadelphia,210
+United States,PA,Philadelphia,166
+United States,PA,Philadelphia,198
+United States,PA,Pittsburgh,124
+United States,PA,Reading,111
+United States,PA,State College ,100
+United States,RI,East Greenwich / Warwick,106
+United States,RI,Jamestown / Middletown / Newport,179
+United States,RI,Jamestown / Middletown / Newport,117
+United States,RI,Jamestown / Middletown / Newport,220
+United States,RI,Jamestown / Middletown / Newport,179
+United States,RI,Providence / Bristol,155
+United States,SC,Charleston,189
+United States,SC,Charleston,162
+United States,SC,Charleston,228
+United States,SC,Charleston,189
+United States,SC,Columbia,112
+United States,SC,Hilton Head,115
+United States,SC,Hilton Head,161
+United States,SC,Hilton Head,182
+United States,SC,Hilton Head,115
+United States,SC,Myrtle Beach,96
+United States,SC,Myrtle Beach,115
+United States,SC,Myrtle Beach,167
+United States,SC,Myrtle Beach,96
+United States,SD,Deadwood / Spearfish ,96
+United States,SD,Deadwood / Spearfish ,128
+United States,SD,Hot Springs,96
+United States,SD,Hot Springs,123
+United States,SD,Rapid City,96
+United States,SD,Rapid City,133
+United States,SD,Rapid City,96
+United States,TN,Brentwood / Franklin,125
+United States,TN,Chattanooga ,109
+United States,TN,Knoxville,102
+United States,TN,Memphis,123
+United States,TN,Nashville,234
+United States,TN,Nashville,187
+United States,TN,Nashville,230
+United States,TN,Nashville,207
+United States,TN,Nashville,234
+United States,TX,Arlington / Fort Worth / Grapevine,167
+United States,TX,Austin,158
+United States,TX,Austin,140
+United States,TX,Austin,161
+United States,TX,Austin,131
+United States,TX,Austin,158
+United States,TX,Big Spring,136
+United States,TX,Corpus Christi,103
+United States,TX,Dallas,161
+United States,TX,Dallas,154
+United States,TX,Dallas,161
+United States,TX,El Paso,98
+United States,TX,Galveston,99
+United States,TX,Galveston,132
+United States,TX,Galveston,99
+United States,TX,Houston,122
+United States,TX,Midland / Odessa,183
+United States,TX,Pecos,134
+United States,TX,Plano,122
+United States,TX,Round Rock ,102
+United States,TX,San Antonio,124
+United States,TX,South Padre Island,96
+United States,TX,South Padre Island,105
+United States,TX,South Padre Island,96
+United States,TX,Waco,107
+United States,TX,Waco,123
+United States,TX,Waco,107
+United States,UT,Moab,167
+United States,UT,Moab,96
+United States,UT,Moab,167
+United States,UT,Park City,147
+United States,UT,Park City,279
+United States,UT,Park City,147
+United States,UT,Provo,98
+United States,UT,Salt Lake City,128
+United States,VA,Blacksburg,123
+United States,VA,Blacksburg,105
+United States,VA,Blacksburg,123
+United States,VA,Charlottesville,126
+United States,VA,Loudoun,116
+United States,VA,Lynchburg,104
+United States,VA,Richmond,145
+United States,VA,Roanoke,122
+United States,VA,Virginia Beach,106
+United States,VA,Virginia Beach,186
+United States,VA,Virginia Beach,106
+United States,VA,Wallops Island,112
+United States,VA,Wallops Island,207
+United States,VA,Wallops Island,112
+United States,VA,Williamsburg / York,102
+United States,VA,Williamsburg / York,96
+United States,VA,Williamsburg / York,118
+United States,VA,Williamsburg / York,102
+United States,VT,Burlington,146
+United States,VT,Burlington,111
+United States,VT,Burlington,146
+United States,VT,Manchester,124
+United States,VT,Manchester,107
+United States,VT,Manchester,124
+United States,VT,Montpelier,149
+United States,VT,Montpelier,127
+United States,VT,Montpelier,149
+United States,VT,Stowe ,146
+United States,VT,Stowe ,154
+United States,VT,Stowe ,146
+United States,VT,White River Junction,112
+United States,VT,White River Junction,98
+United States,VT,White River Junction,112
+United States,WA,Everett / Lynnwood,116
+United States,WA,Everett / Lynnwood,139
+United States,WA,Everett / Lynnwood,116
+United States,WA,Ocean Shores,111
+United States,WA,Ocean Shores,137
+United States,WA,Ocean Shores,111
+United States,WA,Olympia / Tumwater,112
+United States,WA,Olympia / Tumwater,133
+United States,WA,Olympia / Tumwater,112
+United States,WA,Port Angeles / Port Townsend,104
+United States,WA,Port Angeles / Port Townsend,161
+United States,WA,Port Angeles / Port Townsend,104
+United States,WA,Richland / Pasco,105
+United States,WA,Seattle,232
+United States,WA,Seattle,176
+United States,WA,Seattle,232
+United States,WA,Spokane,114
+United States,WA,Tacoma,126
+United States,WA,Vancouver,182
+United States,WA,Vancouver,152
+United States,WA,Vancouver,182
+United States,WI,Appleton,103
+United States,WI,Brookfield / Racine,103
+United States,WI,Madison,131
+United States,WI,Madison,109
+United States,WI,Madison,131
+United States,WI,Milwaukee,128
+United States,WI,Milwaukee,149
+United States,WI,Milwaukee,128
+United States,WI,Sturgeon Bay,102
+United States,WI,Sturgeon Bay,96
+United States,WI,Sturgeon Bay,102
+United States,WI,Wisconsin Dells,104
+United States,WI,Wisconsin Dells,132
+United States,WI,Wisconsin Dells,104
+United States,WV,Charleston,109
+United States,WV,Morgantown,99
+United States,WY,Cody,131
+United States,WY,Cody,210
+United States,WY,Jackson / Pinedale,151
+United States,WY,Jackson / Pinedale,298
+United States,WY,Rock Springs,98

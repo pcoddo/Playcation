@@ -1,0 +1,494 @@
+*, *:after, *:before {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Helvetica Neue", sans-serif;
+  font-weight: 400;
+  background-color: transparent;
+}
+
+.container {
+  padding-left:0;
+  margin-left: -3rem;
+  height: 675px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: left;
+}
+
+.iphone {
+  box-shadow: inset 0 0 3px 0 rgba(0, 0, 0, 0.2), 0 0 0 1px #999, 0 0 30px 0px rgba(0, 0, 0, 0.7);
+  border: 5px solid #d9dbdc;
+  background: #f8f8f8;
+  padding: 15px;
+  border-radius: 50px;
+  height: 877px;
+  width: 423px;
+  position: relative;
+  margin: 0px;
+  transform: scale(0.7);
+}
+
+.iphone-top {
+  padding: 5px 110px 40px;
+  position: relative;
+}
+.iphone-top .speaker {
+  display: block;
+  width: 70px;
+  height: 6px;
+  margin: 0 auto;
+  border-radius: 6px;
+  background: #292728;
+}
+.iphone-top .camera {
+  display: block;
+  margin: 0 auto;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  margin-bottom: 13px;
+  background: #333;
+}
+.iphone-top .sensor {
+  display: block;
+  width: 15px;
+  height: 15px;
+  float: left;
+  background: #333;
+  margin-top: -5px;
+  border-radius: 50%;
+}
+
+.top-bar, .bottom-bar {
+  display: block;
+  width: 423px;
+  height: 15px;
+  border-left: 5px solid #BBB;
+  border-right: 5px solid #BBB;
+  position: absolute;
+  left: -5px;
+}
+
+.top-bar {
+  top: 65px;
+}
+
+.bottom-bar {
+  bottom: 65px;
+}
+
+.iphone-screen {
+  background: #eee;
+  border: 1px solid #fff;
+  height: 677px;
+  width: 375px;
+  margin: 0 auto;
+  border: 1px solid rgba(0, 0, 0, 0.9);
+  border-radius: 3px;
+  position: relative;
+  overflow: hidden;
+  /*background-image: url("https://assets.codepen.io/285131/paintbg.jpg");*/
+  background-color: #FFFFFF;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.iphone-screen img {
+  width: 100%;
+}
+
+.buttons .on-off, .buttons .up, .buttons .down, .buttons .sleep {
+  display: block;
+  background: #CCC;
+  position: absolute;
+  border-radius: 2px 0px 0px 2px;
+}
+.buttons .on-off {
+  height: 40px;
+  width: 3px;
+  top: 100px;
+  left: -8px;
+}
+.buttons .up, .buttons .down, .buttons .sleep {
+  height: 60px;
+  width: 5px;
+  left: -10px;
+}
+.buttons .up {
+  top: 170px;
+}
+.buttons .down {
+  top: 250px;
+}
+.buttons .sleep {
+  left: auto;
+  right: -10px;
+  top: 170px;
+  border-radius: 0px 2px 2px 0px;
+}
+
+.iphone-bottom {
+  padding: 10px 0 0;
+}
+.iphone-bottom span {
+  display: block;
+  margin: 0 auto;
+  width: 68px;
+  height: 68px;
+  background: #ccc;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #303233 0%, #b5b7b9 50%, #f0f2f2 69%, #303233 100%);
+  position: relative;
+}
+.iphone-bottom span:after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 60px;
+  background: #fff;
+  border-radius: 50%;
+  position: absolute;
+  left: 4px;
+  top: 4px;
+}
+
+/* Conversation container */
+#conversation {
+  padding: 0em 2em 3.5em 2.5em;
+  font-family: sans-serif;
+  position: absolute;
+  bottom: 0;
+}
+
+/* Generic message styles */
+.message, .pending-message {
+  padding: 0.65em 0.9em;
+  margin: 0.5em 0;
+  background-color: cornflowerblue;
+  clear: both;
+  position: relative;
+  border-radius: 1.3em;
+  font-size: 0;
+  transition: all 0.15s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  /*would have liked a more detailed animation, but this was quicker */
+}
+
+.message.show, .pending .pending-message {
+  font-size: 1.25em;
+}
+
+/* Sent vs. Received */
+.sent {
+  float: right;
+  color: #fff;
+}
+
+.received, .pending-message {
+  float: left;
+  background-color: #ccc;
+}
+
+/* Pending message ellipsis thingy */
+.pending-message {
+  color: #666;
+  padding: 0.5em 0.75em;
+  position: relative;
+}
+
+.pending-message::after {
+  content: "";
+  width: 0.9em;
+  height: 0.9em;
+  background-color: #ccc;
+  border-radius: 10em;
+  position: absolute;
+  transition: all 0.4s;
+  bottom: 100%;
+  left: -0.5em;
+}
+
+.pending .pending-message::after {
+  left: -0.15em;
+  bottom: -0.15em;
+  box-shadow: -0.55em 0.55em 0 -0.25em #ccc;
+}
+
+.ellipsis {
+  display: inline-block;
+  width: 0.5em;
+  height: 0.5em;
+  background: #bbb;
+  border-radius: 10em;
+  animation-name: wait;
+  animation-duration: 0.75s;
+  animation-iteration-count: infinite;
+}
+
+.ellipsis:nth-child(1) {
+  animation-delay: 0.3s;
+}
+
+.ellipsis:nth-child(2) {
+  animation-delay: 0.6s;
+}
+
+@keyframes wait {
+  from {
+    background-color: #333;
+  }
+  to {
+    background-color: #666;
+  }
+}
+/* Hidden labels for accessibility. This makes it read like a script. */
+.sent::before, .received::before {
+  position: fixed;
+  left: -999em;
+}
+
+.sent::before {
+  content: "Sent: ";
+}
+
+.received::before {
+  content: "Received: ";
+}
+
+/* Tails */
+.message::after {
+  content: "";
+  width: 1em;
+  height: 1em;
+  display: block;
+  position: absolute;
+  bottom: 0;
+}
+
+.received::after {
+  right: 100%;
+  border-radius: 0 0 1em 0;
+  box-shadow: 0.5em 0 #ccc;
+}
+
+.sent::after {
+  border-radius: 0 0 0 1em;
+  box-shadow: -0.5em 0 cornflowerblue;
+  left: 100%;
+}
+
+#phone {
+  max-width: 20em;
+  height: 30em;
+  margin: auto;
+  border-radius: 3em;
+  border: 1em solid #000;
+  border-top-width: 5em;
+  border-bottom-width: 6em;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Name bar */
+.status-bar {
+  width: 100%;
+  height: 20px;
+  color: black;
+  overflow: hidden;
+  position: relative;
+  background-color: #ECEBEB;
+  font-size: 18px;
+  vertical-align: middle;
+  padding-top: 2px;
+  z-index: 3;
+}
+
+.status-bar i {
+  font-size: 13px;
+}
+
+/*
+.status-bar .fa-circle
+{
+    font-size: 9px;
+    vertical-align: center;
+}
+*/
+.name-bar {
+  width: 100%;
+  background-color: #ECEBEB;
+  height: 42px;
+  font-size: 40px;
+  overflow: hidden;
+  position: relative;
+  border-bottom: solid 1px #DBD9D9;
+  z-index: 3;
+}
+
+.name-bar .name {
+  color: black;
+  text-align: center;
+  vertical-align: middle;
+  margin-left: 4px;
+  margin-top: -15px;
+  font-size: 24px;
+  display: inline-block;
+  font-weight: 500;
+}
+
+.name-bar i {
+  margin-top: -18px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.name-bar span {
+  font-size: 20px;
+  color: #1d77c0;
+  vertical-align: middle;
+  margin-top: -15px;
+  padding-left: 5px;
+  display: inline-block;
+  font-family: "LiberationSans", sans-serif;
+}
+
+.name-bar-button, .input-bar-button {
+  color: #1d77c0;
+  padding-left: 5px;
+  padding-right: 5px;
+  height: 40px;
+  display: inline-block;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+}
+
+.name-bar-button:hover, .input-bar-button:hover {
+  opacity: 0.3;
+  cursor: pointer;
+}
+
+.input-bar-button {
+  /*    margin-top: 5px;*/
+  padding: 0;
+  height: auto;
+  margin-bottom: 5px;
+  vertical-align: middle;
+}
+
+.name-bar-button, .input-bar-button {
+  color: #1d77c0;
+  padding-left: 5px;
+  padding-right: 5px;
+  height: 40px;
+  display: inline-block;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+}
+
+.name-bar-button:hover, .input-bar-button:hover {
+  opacity: 0.3;
+  cursor: pointer;
+}
+
+.input-bar-button {
+  /*    margin-top: 5px;*/
+  padding: 0;
+  height: auto;
+  margin-bottom: 10px;
+  vertical-align: middle;
+}
+
+.content-blurred {
+  margin-top: 44px;
+  padding: 0 1rem;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  -webkit-filter: blur(10px);
+  filter: url(#blur-effect);
+  opacity: 0.35;
+  z-index: 1;
+}
+
+.message-screen {
+  height: 400px;
+  width: 100%;
+  display: block;
+  border-bottom: solid 2px #E8E8E8;
+  overflow-y: scroll;
+}
+
+.input-bar {
+  width: 100%;
+  height: 45px;
+  background-color: #ECEBEB;
+  position: absolute;
+  border-top: solid 2px #DBD9D9;
+  font-size: 20px;
+  left: 0px;
+  bottom: 0px;
+  z-index: 3;
+  text-align: center;
+}
+
+.input-bar input {
+  width: 230px;
+  height: 30px;
+  border-radius: 8px;
+  margin-left: 12px;
+  margin-right: 12px;
+  vertical-align: middle;
+  font-family: inherit;
+  margin-top: -12px;
+  font-size: 20px;
+  display: inline-block;
+  border: 1px solid #E8E8E8;
+}
+
+.input-bar input:focus {
+  outline: none;
+}
+
+::-webkit-input-placeholder {
+  color: #bbb;
+  padding-left: 3px;
+  letter-spacing: 0.5px;
+}
+
+.input-bar i {
+  color: #89909a;
+  font-size: 30px;
+  margin-top: 6px;
+  /*    padding-left: 0px;*/
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+}
+
+.input-bar i:hover {
+  opacity: 0.3;
+  cursor: pointer;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+@-webkit-keyframes blinker {
+  0% { text-shadow: 0 0 10px rgba(255,255,255, 0), 0 0 12px rgba(0, 188, 230,0), 0 0 14px rgba(0, 188, 230,0), 0 0 16px rgba(0, 188, 230,0), 0 0 18px rgba(0, 188, 230,0), 0 0 20px rgba(0, 188, 230,0), 0 0 22px rgba(0, 188, 230,0);}
+  50% { text-shadow: 0 0 10px rgba(255,255,255, 1), 0 0 12px rgba(255,255,255, 1), 0 0 14px #118cf7, 0 0 16px rgba(17, 140, 247, 1), 0 0 18px rgba(17, 140, 247, 1), 0 0 20px rgba(17, 140, 247, 1), 0 0 22px rgba(17, 140, 247, 1);}
+  100% { text-shadow: 0 0 10px rgba(255,255,255, 0), 0 0 12px rgba(0, 188, 230,0), 0 0 14px rgba(0, 188, 230,0), 0 0 16px rgba(0, 188, 230,0), 0 0 18px rgba(0, 188, 230,0), 0 0 20px rgba(0, 188, 230,0), 0 0 22px rgba(0, 188, 230,0);}
+}
+
+.blink {
+    -webkit-animation: blinker 1s 8;
+    -moz-animation: blinker 1s 8;
+    animation: blinker 1s 8;
+}

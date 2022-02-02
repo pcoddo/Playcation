@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Mrs+Sheppards&display=swap');
+
+html, body {margin: 0; height: 100%; overflow: hidden}
+
+body {
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	-webkit-animation: gradient 15s ease infinite;
+	        animation: gradient 15s ease infinite;
+	height: 100vh;
+}
+
+h1 {
+  font-family: "Mrs Sheppards", cursive;
+  font-weight: bold;
+  color: #fff;
+  float: left;
+  font-size: 75vh;
+  /*padding: 50px 50px 0px 50px;*/
+  line-height:0.75;
+  transform: rotate(-5deg);
+}
+h5 {
+  font-weight: bold;
+  color: #fff;
+
+  position: relative;
+  text-align: right;
+  font-size: 12vh;
+  position: relative;
+}
+@-webkit-keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}

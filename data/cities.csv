@@ -1,0 +1,101 @@
+City,Link,Country,State,Lodging,Latitude,Longtitude,Label,country_code
+Hong Kong,https://en.m.wikivoyage.org/wiki/Hong_Kong,Hong Kong,NA,355,22.2793278,114.1628131,Hong Kong,HKG
+London,https://en.m.wikivoyage.org/wiki/London,United Kingdom,NA,305,51.5073219,-0.1276474,"London, United Kingdom",GBR
+Bangkok,https://en.m.wikivoyage.org/wiki/Bangkok,Thailand,NA,146,13.7525438,100.4934734,"Bangkok, Thailand",THA
+Paris,https://en.m.wikivoyage.org/wiki/Paris,France,NA,405,48.8588897,2.320041022,"Paris, France",FRA
+Dubai,https://en.m.wikivoyage.org/wiki/Dubai,United Arab Emirates,NA,385,25.2653471,55.2924914,"Dubai, United Arab Emirates",ARE
+Macau,https://en.m.wikivoyage.org/wiki/Macau,Macau,NA,321,22.210928,113.552971,Macau,MAC
+New York City,https://en.m.wikivoyage.org/wiki/New_York_City,United States,NY,286,40.7127281,-74.0060152,"New York City, United States",USA
+Singapore,https://en.m.wikivoyage.org/wiki/Singapore,Singapore,NA,288,1.357107,103.8194992,Singapore,SGP
+Kuala Lumpur,https://en.m.wikivoyage.org/wiki/Kuala_Lumpur,Malaysia,NA,186,3.1516964,101.6942371,"Kuala Lumpur, Malaysia",MYS
+Istanbul,https://en.m.wikivoyage.org/wiki/Istanbul,Turkey,NA,226,41.0096334,28.9651646,"Istanbul, Turkey",TUR
+Tokyo,https://en.m.wikivoyage.org/wiki/Tokyo,Japan,NA,315,35.6828387,139.7594549,"Tokyo, Japan",JPN
+Seoul,https://en.m.wikivoyage.org/wiki/Seoul,"Korea, South",NA,230,37.5326,127.024612,"Seoul, Korea, South",KOR
+Barcelona,https://en.m.wikivoyage.org/wiki/Barcelona,Spain,NA,236,41.3828939,2.1774322,"Barcelona, Spain",ESP
+Amsterdam,https://en.m.wikivoyage.org/wiki/Amsterdam,Netherlands,NA,439,52.3727598,4.8936041,"Amsterdam, Netherlands",NLD
+Milan,https://en.m.wikivoyage.org/wiki/Milan,Italy,NA,308,45.4641943,9.1896346,"Milan, Italy",ITA
+Taipei,https://en.m.wikivoyage.org/wiki/Taipei,Taiwan,NA,191,25.0375198,121.5636796,"Taipei, Taiwan",TWN
+Rome,https://en.m.wikivoyage.org/wiki/Rome,Italy,NA,367,41.8933203,12.4829321,"Rome, Italy",ITA
+Osaka,https://en.m.wikivoyage.org/wiki/Osaka,Japan,NA,275,34.6198813,135.490357,"Osaka, Japan",JPN
+Vienna,https://en.m.wikivoyage.org/wiki/Vienna,Austria,NA,279,48.2083537,16.3725042,"Vienna, Austria",AUT
+Shanghai,https://en.m.wikivoyage.org/wiki/Shanghai,China,NA,250,31.2322758,121.4692071,"Shanghai, China",CHN
+Prague,https://en.m.wikivoyage.org/wiki/Prague,Czech Republic,NA,255,50.0596288,14.44645927,"Prague, Czech Republic",CZE
+Los Angeles,https://en.m.wikivoyage.org/wiki/Los_Angeles,United States,CA,182,34.0536909,-118.242766,"Los Angeles, United States",USA
+Madrid,https://en.m.wikivoyage.org/wiki/Madrid,Spain,NA,243,40.4167047,-3.7035825,"Madrid, Spain",ESP
+Munich,https://en.m.wikivoyage.org/wiki/Munich,Germany,NA,249,48.1371079,11.5753822,"Munich, Germany",DEU
+Miami,https://en.m.wikivoyage.org/wiki/Miami,United States,FL,192,25.7741728,-80.19362,"Miami, United States",USA
+Dublin,https://en.m.wikivoyage.org/wiki/Dublin,Ireland,NA,262,53.3497645,-6.2602732,"Dublin, Ireland",IRL
+Berlin,https://en.m.wikivoyage.org/wiki/Berlin,Germany,NA,227,52.5170365,13.3888599,"Berlin, Germany",DEU
+Mumbai,https://en.m.wikivoyage.org/wiki/Mumbai,India,NA,214,19.0759899,72.8773928,"Mumbai, India",IND
+Riyadh,https://en.m.wikivoyage.org/wiki/Riyadh,Saudi Arabia,NA,416,24.638916,46.7160104,"Riyadh, Saudi Arabia",SAU
+Toronto,https://en.m.wikivoyage.org/wiki/Toronto,Canada,NA,285,43.6534817,-79.3839347,"Toronto, Canada",CAN
+Chennai,https://en.m.wikivoyage.org/wiki/Chennai,India,NA,252,13.0836939,80.270186,"Chennai, India",IND
+Beijing,https://en.m.wikivoyage.org/wiki/Beijing,China,NA,254,39.906217,116.3912757,"Beijing, China",CHN
+Lima,https://en.m.wikivoyage.org/wiki/Lima,Peru,NA,250,-12.0621065,-77.0365256,"Lima, Peru",PER
+San Francisco,https://en.m.wikivoyage.org/wiki/San_Francisco,United States,CA,333,37.7790262,-122.419906,"San Francisco, United States",USA
+Vancouver,https://en.m.wikivoyage.org/wiki/Vancouver,Canada,NA,398,49.246292,-123.116226,"Vancouver, United States",CAN
+Sydney,https://en.m.wikivoyage.org/wiki/Sydney,Australia,NA,240,-33.8548157,151.2164539,"Sydney, Australia",AUS
+Guangzhou,https://en.m.wikivoyage.org/wiki/Guangzhou,China,NA,246,23.1301964,113.2592945,"Guangzhou, China",CHN
+Lisbon,https://en.m.wikivoyage.org/wiki/Lisbon,Portugal,NA,181,38.7077507,-9.1365919,"Lisbon, Portugal",PRT
+Frankfurt,https://en.m.wikivoyage.org/wiki/Frankfurt_am_Main,Germany,NA,235,50.1106444,8.6820917,"Frankfurt, Germany",DEU
+Johannesburg,https://en.m.wikivoyage.org/wiki/Johannesburg,South Africa,NA,238,-26.205,28.049722,"Johannesburg, South Africa",ZAF
+Budapest,https://en.m.wikivoyage.org/wiki/Budapest,Hungary,NA,235,47.4979937,19.0403594,"Budapest, Hungary",HUN
+Abu Dhabi,https://en.m.wikivoyage.org/wiki/Abu_Dhabi,United Arab Emirates,NA,268,24.4538352,54.3774014,"Abu Dhabi, United Arab Emirates",ARE
+Ho Chi Minh City,https://en.m.wikivoyage.org/wiki/Ho_Chi_Minh_City,Vietnam,NA,222,10.7715512,106.6983801,"Ho Chi Minh City, Vietnam",VNM
+Mexico City,https://en.m.wikivoyage.org/wiki/Mexico_City,Mexico,NA,244,19.4326296,-99.1331785,"Mexico City, Mexico",MEX
+Punta Cana,https://en.m.wikivoyage.org/wiki/Punta_Cana,Dominican Republic,NA,217,18.556551,-68.3691611,"Punta Cana, Dominican Republic",DOM
+Brussels,https://en.m.wikivoyage.org/wiki/Brussels,Belgium,NA,227,50.8465573,4.351697,"Brussels, Belgium",BEL
+Orlando,https://en.m.wikivoyage.org/wiki/Orlando,United States,FL,153,28.5421109,-81.3790304,"Orlando, United States",USA
+Melbourne,https://en.m.wikivoyage.org/wiki/Melbourne,Australia,NA,190,-37.8142176,144.9631608,"Melbourne, Australia",AUS
+New Delhi,https://en.m.wikivoyage.org/wiki/Delhi,India,NA,238,28.6138954,77.2090057,"New Delhi, India",IND
+Sao Paulo,https://en.m.wikivoyage.org/wiki/S%C3%A3o_Paulo,Brazil,NA,286,-23.5506507,-46.6333824,"Sao Paulo, Brazil",BRA
+Zurich,https://en.m.wikivoyage.org/wiki/Z%C3%BCrich,Switzerland,NA,378,47.3744489,8.5410422,"Zurich, Switzerland",CHE
+Montreal,https://en.m.wikivoyage.org/wiki/Montreal,Canada,NA,186,45.5031824,-73.5698065,"Montreal, Canada",CAN
+Hanoi,https://en.m.wikivoyage.org/wiki/Hanoi,Vietnam,NA,228,21.0294498,105.8544441,"Hanoi, Vietnam",VNM
+"Washington, D.C.","https://en.m.wikivoyage.org/wiki/Washington,_D.C.",United States,DC,258,38.8950368,-77.0365427,"Washington, D.C., United States",USA
+Shenzhen,https://en.m.wikivoyage.org/wiki/Shenzhen,China,NA,263,22.5445741,114.0545429,"Shenzhen, China",CHN
+Stockholm,https://en.m.wikivoyage.org/wiki/Stockholm,Sweden,NA,275,59.3251172,18.0710935,"Stockholm, Sweden",SWE
+Chicago,https://en.m.wikivoyage.org/wiki/Chicago,United States,IL,218,41.8755616,-87.6244212,"Chicago, United States",USA
+Buenos Aires,https://en.m.wikivoyage.org/wiki/Buenos_Aires,Argentina,NA,267,-34.6075682,-58.4370894,"Buenos Aires, Argentina",ARG
+Duesseldorf,https://en.m.wikivoyage.org/wiki/D%C3%BCsseldorf,Germany,NA,262,51.19077325,6.793516714,"Duesseldorf, Germany",DEU
+Moscow,https://en.m.wikivoyage.org/wiki/Moscow,Russia,NA,195,55.7504461,37.6174943,"Moscow, Russia",RUS
+Boston,https://en.m.wikivoyage.org/wiki/Boston,United States,MA,309,42.3602534,-71.0582912,"Boston, United States",USA
+Chengdu,https://en.m.wikivoyage.org/wiki/Chengdu,China,NA,145,30.6598628,104.0633717,"Chengdu, China",CHN
+Kolkata,https://en.m.wikivoyage.org/wiki/Kolkata,India,NA,268,22.5414185,88.35769124,"Kolkata, India",IND
+Edinburgh,https://en.m.wikivoyage.org/wiki/Edinburgh,United Kingdom,NA,604,55.9533456,-3.1883749,"Edinburgh, United Kingdom",GBR
+Copenhagen,https://en.m.wikivoyage.org/wiki/Copenhagen,Denmark,NA,235,55.6867243,12.5700724,"Copenhagen, Denmark",DNK
+San Jose,https://en.m.wikivoyage.org/wiki/San_José_(Costa_Rica),Costa Rica,NA,147,9.9325427,-84.0795782,"San Jose, Costa Rica",CRI
+Jakarta,https://en.m.wikivoyage.org/wiki/Jakarta,Indonesia,NA,252,-6.1753942,106.827183,"Jakarta, Indonesia",IDN
+Cairo,https://en.m.wikivoyage.org/wiki/Cairo,Egypt,NA,175,30.0443879,31.2357257,"Cairo, Egypt",EGY
+Tehran,https://en.m.wikivoyage.org/wiki/Tehran,Iran,NA,97,35.6892523,51.3896004,"Tehran, Iran",IRN
+Houston,https://en.m.wikivoyage.org/wiki/Houston,United States,TX,122,29.7589382,-95.3676974,"Houston, United States",USA
+Warsaw,https://en.m.wikivoyage.org/wiki/Warsaw,Poland,NA,175,52.2319581,21.0067249,"Warsaw, Poland",POL
+Rio de Janeiro,https://en.m.wikivoyage.org/wiki/Rio_de_Janeiro,Brazil,NA,219,-22.9110137,-43.2093727,"Rio de Janeiro, Brazil",BRA
+Hamburg,https://en.m.wikivoyage.org/wiki/Hamburg,Germany,NA,220,53.550341,10.000654,"Hamburg, Germany",DEU
+Cape Town,https://en.m.wikivoyage.org/wiki/Cape_Town,South Africa,NA,206,-33.928992,18.417396,"Cape Town, South Africa",ZAF
+Manila,https://en.m.wikivoyage.org/wiki/Manila,Philippines,NA,205,14.5907332,120.9809674,"Manila, Philippines",PHL
+Bogota,https://en.m.wikivoyage.org/wiki/Bogot%C3%A1,Colombia,NA,270,4.6533326,-74.083652,"Bogota, Colombia",COL
+Xi'an,https://en.m.wikivoyage.org/wiki/Xi%27an,China,NA,190,34.3430507,108.9350839,"Xi'an, China",CHN
+Beirut,https://en.m.wikivoyage.org/wiki/Beirut,Lebanon,NA,135,33.8959203,35.47843,"Beirut, Lebanon",LBN
+Geneva,https://en.m.wikivoyage.org/wiki/Geneva,Switzerland,NA,332,46.2017559,6.1466014,"Geneva, Switzerland",CHE
+Colombo,https://en.m.wikivoyage.org/wiki/Colombo,Sri Lanka,NA,233,6.9387469,79.8541134,"Colombo, Sri Lanka",LKA
+Xiamen,https://en.m.wikivoyage.org/wiki/Xiamen,China,NA,175,24.4801069,118.0853479,"Xiamen, China",CHN
+Bucharest,https://en.m.wikivoyage.org/wiki/Bucharest,Romania,NA,170,44.4361414,26.1027202,"Bucharest, Romania",ROU
+Casablanca,https://en.m.wikivoyage.org/wiki/Casablanca,Morocco,NA,211,33.5675527,-7.618756607,"Casablanca, Morocco",MAR
+Atlanta,https://en.m.wikivoyage.org/wiki/Atlanta,United States,GA,163,33.7489924,-84.3902644,"Atlanta, United States",USA
+Sofia,https://en.m.wikivoyage.org/wiki/Sofia,Bulgaria,NA,173,42.6978634,23.3221789,"Sofia, Bulgaria",BGR
+Saint Petersburg,https://en.m.wikivoyage.org/wiki/Saint_Petersburg,Russia,NA,352,59.938732,30.316229,"Saint Petersburg, Russia",RUS
+Tel Aviv,https://en.m.wikivoyage.org/wiki/Tel_Aviv,Israel,NA,440,32.0852997,34.7818064,"Tel Aviv, Israel",ISR
+Dalian,https://en.m.wikivoyage.org/wiki/Dalian,China,NA,166,38.9181714,121.6282945,"Dalian, China",CHN
+Montevideo,https://en.m.wikivoyage.org/wiki/Montevideo,Uruguay,NA,155,-34.9058916,-56.1913095,"Montevideo, Uruguay",URY
+Amman,https://en.m.wikivoyage.org/wiki/Amman,Jordan,NA,246,31.9515694,35.9239625,"Amman, Jordan",JOR
+Hangzhou,https://en.m.wikivoyage.org/wiki/Hangzhou,China,NA,169,30.2489634,120.2052342,"Hangzhou, China",CHN
+Pune,https://en.m.wikivoyage.org/wiki/Pune,India,NA,187,18.521428,73.8544541,"Pune, India",IND
+Durban,https://en.m.wikivoyage.org/wiki/Durban,South Africa,NA,210,-29.861825,31.009909,"Durban, South Africa",ZAF
+Dallas,https://en.m.wikivoyage.org/wiki/Dallas,United States,TX,161,32.7762719,-96.7968559,"Dallas, United States",USA
+Accra,https://en.m.wikivoyage.org/wiki/Accra,Ghana,NA,232,5.5571096,-0.2012376,"Accra, Ghana",GHA
+Quito,https://en.m.wikivoyage.org/wiki/Quito,Ecuador,NA,190,-0.2201641,-78.5123274,"Quito, Ecuador",ECU
+Tianjin,https://en.m.wikivoyage.org/wiki/Tianjin,China,NA,141,39.0856735,117.1951073,"Tianjin, China",CHN
+Bangalore,https://en.m.wikivoyage.org/wiki/Bangalore,India,NA,352,12.9767936,77.590082,"Bangalore, India",IND
+Qingdao,https://en.m.wikivoyage.org/wiki/Qingdao,China,NA,157,36.0638034,120.3781372,"Qingdao, China",CHN
+Lagos,https://en.m.wikivoyage.org/wiki/Lagos,Nigeria,NA,298,6.4550575,3.3941795,"Lagos, Nigeria",NGA
