@@ -6,7 +6,7 @@
 
 
 <!-- Header -->
-![Header](https://raw.githubusercontent.com/pcoddo/Playcation/www/banner.png)
+![Header](https://raw.githubusercontent.com/pcoddo/Playcation/main/www/banner.png)
 
 ## Dependencies
 **RStudio** version Version 1.4+
