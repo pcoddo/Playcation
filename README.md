@@ -1,9 +1,5 @@
 # **Playcation**
-</p>
-<p align="left">
-    <em>Shiny [web application](https://pcoddo.shinyapps.io/Playcation/) to replicate the Playcation podcast experience</em>
-</p>
-
+*Shiny [web application](https://pcoddo.shinyapps.io/Playcation/) to replicate the Playcation podcast experience*
 
 <!-- Header -->
 ![Header](https://raw.githubusercontent.com/pcoddo/Playcation/main/www/header.png)
